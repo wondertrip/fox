@@ -1,0 +1,1132 @@
+2015-01-26 11:35:01
+--------------------------START-----------------------------
+长电科技:600584;华宇软件:300271
+13.68;44.85|||||0
+sh600584 --- CurrentPrice:14.26 HighestPrice:14.67
+sz300271 --- CurrentPrice:47.360 HighestPrice:48.500
+长电科技:600584;华宇软件:300271 -> new_incr_rate:4.24;5.60 | new highest_incr_rate:7.24;8.14 | new score:6.31
+update zs_game set current_price="14.26;47.36", incr_rate="4.24;5.60", highest_price="14.67;48.50", highest_incr_rate="7.24;8.14", score=6.31 where round = 0 and target_stock = "长电科技:600584;华宇软件:300271"
+上海建工:600170;南风股份:300004
+9.02;47.98|||||0
+sh600170 --- CurrentPrice:9.60 HighestPrice:9.65
+sz300004 --- CurrentPrice:47.090 HighestPrice:49.300
+上海建工:600170;南风股份:300004 -> new_incr_rate:6.43;-1.85 | new highest_incr_rate:6.98;2.75 | new score:3.58
+update zs_game set current_price="9.60;47.09", incr_rate="6.43;-1.85", highest_price="9.65;49.30", highest_incr_rate="6.98;2.75", score=3.58 where round = 0 and target_stock = "上海建工:600170;南风股份:300004"
+上海电气:601727;招商地产:000024
+10.28;27.71|||||0
+sh601727 --- CurrentPrice:10.87 HighestPrice:10.99
+sz000024 --- CurrentPrice:27.37 HighestPrice:28.00
+上海电气:601727;招商地产:000024 -> new_incr_rate:5.74;-1.23 | new highest_incr_rate:6.91;1.05 | new score:3.12
+update zs_game set current_price="10.87;27.37", incr_rate="5.74;-1.23", highest_price="10.99;28.00", highest_incr_rate="6.91;1.05", score=3.12 where round = 0 and target_stock = "上海电气:601727;招商地产:000024"
+万丰奥威:002085;招商地产:000024
+32.97;27.71|||||0
+sz002085 --- CurrentPrice:33.69 HighestPrice:34.55
+sz000024 --- CurrentPrice:27.37 HighestPrice:28.00
+万丰奥威:002085;招商地产:000024 -> new_incr_rate:2.18;-1.23 | new highest_incr_rate:4.79;1.05 | new score:1.70
+update zs_game set current_price="33.69;27.37", incr_rate="2.18;-1.23", highest_price="34.55;28.00", highest_incr_rate="4.79;1.05", score=1.70 where round = 0 and target_stock = "万丰奥威:002085;招商地产:000024"
+新黄浦:600638;凤凰股份:600716
+18.56;11.57|||||0
+sh600638 --- CurrentPrice:19.00 HighestPrice:19.03
+sh600716 --- CurrentPrice:11.35 HighestPrice:11.50
+新黄浦:600638;凤凰股份:600716 -> new_incr_rate:2.37;-1.90 | new highest_incr_rate:2.53;-0.61 | new score:0.60
+update zs_game set current_price="19.00;11.35", incr_rate="2.37;-1.90", highest_price="19.03;11.50", highest_incr_rate="2.53;-0.61", score=0.60 where round = 0 and target_stock = "新黄浦:600638;凤凰股份:600716"
+万科A:000002;TCL集团:000100
+13.92;3.86|||||0
+sz000002 --- CurrentPrice:13.69 HighestPrice:14.00
+sz000100 --- CurrentPrice:3.87 HighestPrice:3.88
+万科A:000002;TCL集团:000100 -> new_incr_rate:-1.65;0.26 | new highest_incr_rate:0.57;0.52 | new score:-0.08
+update zs_game set current_price="13.69;3.87", incr_rate="-1.65;0.26", highest_price="14.00;3.88", highest_incr_rate="0.57;0.52", score=-0.08 where round = 0 and target_stock = "万科A:000002;TCL集团:000100"
+上海建工:600170;泰禾集团:000732
+9.02;18.72|||||0
+sh600170 --- CurrentPrice:9.60 HighestPrice:9.65
+sz000732 --- CurrentPrice:18.80 HighestPrice:19.00
+上海建工:600170;泰禾集团:000732 -> new_incr_rate:6.43;0.43 | new highest_incr_rate:6.98;1.50 | new score:3.84
+update zs_game set current_price="9.60;18.80", incr_rate="6.43;0.43", highest_price="9.65;19.00", highest_incr_rate="6.98;1.50", score=3.84 where round = 0 and target_stock = "上海建工:600170;泰禾集团:000732"
+南风股份:300004;泰禾集团:000732
+47.98;18.72|||||0
+sz300004 --- CurrentPrice:47.090 HighestPrice:49.300
+sz000732 --- CurrentPrice:18.80 HighestPrice:19.00
+南风股份:300004;泰禾集团:000732 -> new_incr_rate:-1.85;0.43 | new highest_incr_rate:2.75;1.50 | new score:0.71
+update zs_game set current_price="47.09;18.80", incr_rate="-1.85;0.43", highest_price="49.30;19.00", highest_incr_rate="2.75;1.50", score=0.71 where round = 0 and target_stock = "南风股份:300004;泰禾集团:000732"
+中粮生化:000930;重庆路桥:600106
+7.49;5.73|||||0
+sz000930 --- CurrentPrice:7.65 HighestPrice:7.68
+sh600106 --- CurrentPrice:5.75 HighestPrice:5.76
+中粮生化:000930;重庆路桥:600106 -> new_incr_rate:2.14;0.35 | new highest_incr_rate:2.54;0.52 | new score:1.39
+update zs_game set current_price="7.65;5.75", incr_rate="2.14;0.35", highest_price="7.68;5.76", highest_incr_rate="2.54;0.52", score=1.39 where round = 0 and target_stock = "中粮生化:000930;重庆路桥:600106"
+长电科技:600584;浦东建设:600284
+13.68;11.56|||||0
+sh600584 --- CurrentPrice:14.26 HighestPrice:14.67
+sh600284 --- CurrentPrice:11.85 HighestPrice:11.85
+长电科技:600584;浦东建设:600284 -> new_incr_rate:4.24;2.51 | new highest_incr_rate:7.24;2.51 | new score:4.13
+update zs_game set current_price="14.26;11.85", incr_rate="4.24;2.51", highest_price="14.67;11.85", highest_incr_rate="7.24;2.51", score=4.13 where round = 0 and target_stock = "长电科技:600584;浦东建设:600284"
+顺鑫农业:000860;金风科技:002202
+20.86;14.66|||||0
+sz000860 --- CurrentPrice:20.89 HighestPrice:20.98
+sz002202 --- CurrentPrice:15.30 HighestPrice:15.35
+顺鑫农业:000860;金风科技:002202 -> new_incr_rate:0.14;4.37 | new highest_incr_rate:0.58;4.71 | new score:2.45
+update zs_game set current_price="20.89;15.30", incr_rate="0.14;4.37", highest_price="20.98;15.35", highest_incr_rate="0.58;4.71", score=2.45 where round = 0 and target_stock = "顺鑫农业:000860;金风科技:002202"
+龙头股份:600630;新希望:000876
+12.63;15.10|||||0
+sh600630 --- CurrentPrice:13.50 HighestPrice:13.63
+sz000876 --- CurrentPrice:15.30 HighestPrice:15.35
+龙头股份:600630;新希望:000876 -> new_incr_rate:6.89;1.32 | new highest_incr_rate:7.92;1.66 | new score:4.45
+update zs_game set current_price="13.50;15.30", incr_rate="6.89;1.32", highest_price="13.63;15.35", highest_incr_rate="7.92;1.66", score=4.45 where round = 0 and target_stock = "龙头股份:600630;新希望:000876"
+川润股份:002272;吉峰农机:300022
+6.93;10.29|||||0
+sz002272 --- CurrentPrice:6.96 HighestPrice:6.96
+sz300022 --- CurrentPrice:0.000 HighestPrice:0.000
+川润股份:002272;吉峰农机:300022 -> new_incr_rate:0.43;-100.00 | new highest_incr_rate:0.43;-100.00 | new score:-49.79
+update zs_game set current_price="6.96;0.00", incr_rate="0.43;-100.00", highest_price="6.96;0.00", highest_incr_rate="0.43;-100.00", score=-49.79 where round = 0 and target_stock = "川润股份:002272;吉峰农机:300022"
+旋极信息:300324;东方财富:300059
+49.49;40.15|||||0
+sz300324 --- CurrentPrice:50.680 HighestPrice:51.500
+sz300059 --- CurrentPrice:41.000 HighestPrice:42.130
+旋极信息:300324;东方财富:300059 -> new_incr_rate:2.40;2.12 | new highest_incr_rate:4.06;4.93 | new score:3.38
+update zs_game set current_price="50.68;41.00", incr_rate="2.40;2.12", highest_price="51.50;42.13", highest_incr_rate="4.06;4.93", score=3.38 where round = 0 and target_stock = "旋极信息:300324;东方财富:300059"
+东风汽车:600006;龙头股份:600630
+5.70;12.63|||||0
+sh600006 --- CurrentPrice:5.79 HighestPrice:5.85
+sh600630 --- CurrentPrice:13.50 HighestPrice:13.63
+东风汽车:600006;龙头股份:600630 -> new_incr_rate:1.58;6.89 | new highest_incr_rate:2.63;7.92 | new score:4.76
+update zs_game set current_price="5.79;13.50", incr_rate="1.58;6.89", highest_price="5.85;13.63", highest_incr_rate="2.63;7.92", score=4.76 where round = 0 and target_stock = "东风汽车:600006;龙头股份:600630"
+保利地产:600048;招商地产:000024
+11.43;27.71|||||0
+sh600048 --- CurrentPrice:11.29 HighestPrice:11.40
+sz000024 --- CurrentPrice:27.37 HighestPrice:28.00
+保利地产:600048;招商地产:000024 -> new_incr_rate:-1.22;-1.23 | new highest_incr_rate:-0.26;1.05 | new score:-0.42
+update zs_game set current_price="11.29;27.37", incr_rate="-1.22;-1.23", highest_price="11.40;28.00", highest_incr_rate="-0.26;1.05", score=-0.42 where round = 0 and target_stock = "保利地产:600048;招商地产:000024"
+重庆港九:600279;长春一东:600148
+14.39;21.32|||||0
+sh600279 --- CurrentPrice:14.17 HighestPrice:14.36
+sh600148 --- CurrentPrice:21.84 HighestPrice:22.09
+重庆港九:600279;长春一东:600148 -> new_incr_rate:-1.53;2.44 | new highest_incr_rate:-0.21;3.61 | new score:1.08
+update zs_game set current_price="14.17;21.84", incr_rate="-1.53;2.44", highest_price="14.36;22.09", highest_incr_rate="-0.21;3.61", score=1.08 where round = 0 and target_stock = "重庆港九:600279;长春一东:600148"
+--------------------------END-----------------------------
+2015-01-26 11:35:04
+
+
+
+
+2015-01-26 15:05:01
+--------------------------START-----------------------------
+长电科技:600584;华宇软件:300271
+13.68;44.85|14.26;47.36|4.24;5.60|14.67;48.50|7.24;8.14|6.31
+sh600584 --- CurrentPrice:14.05 HighestPrice:14.67
+sz300271 --- CurrentPrice:47.020 HighestPrice:48.500
+长电科技:600584;华宇软件:300271 -> new_incr_rate:2.70;4.84 | new highest_incr_rate:7.24;8.14 | new score:5.73
+update zs_game set current_price="14.05;47.02", incr_rate="2.70;4.84", highest_price="14.67;48.50", highest_incr_rate="7.24;8.14", score=5.73 where round = 0 and target_stock = "长电科技:600584;华宇软件:300271"
+上海建工:600170;南风股份:300004
+9.02;47.98|9.60;47.09|6.43;-1.85|9.65;49.30|6.98;2.75|3.58
+sh600170 --- CurrentPrice:9.92 HighestPrice:9.92
+sz300004 --- CurrentPrice:47.990 HighestPrice:49.300
+上海建工:600170;南风股份:300004 -> new_incr_rate:9.98;0.02 | new highest_incr_rate:9.98;2.75 | new score:5.69
+update zs_game set current_price="9.92;47.99", incr_rate="9.98;0.02", highest_price="9.92;49.30", highest_incr_rate="9.98;2.75", score=5.69 where round = 0 and target_stock = "上海建工:600170;南风股份:300004"
+上海电气:601727;招商地产:000024
+10.28;27.71|10.87;27.37|5.74;-1.23|10.99;28.00|6.91;1.05|3.12
+sh601727 --- CurrentPrice:10.80 HighestPrice:11.08
+sz000024 --- CurrentPrice:27.19 HighestPrice:28.00
+上海电气:601727;招商地产:000024 -> new_incr_rate:5.06;-1.88 | new highest_incr_rate:7.78;1.05 | new score:3.00
+update zs_game set current_price="10.80;27.19", incr_rate="5.06;-1.88", highest_price="11.08;28.00", highest_incr_rate="7.78;1.05", score=3.00 where round = 0 and target_stock = "上海电气:601727;招商地产:000024"
+万丰奥威:002085;招商地产:000024
+32.97;27.71|33.69;27.37|2.18;-1.23|34.55;28.00|4.79;1.05|1.7
+sz002085 --- CurrentPrice:34.51 HighestPrice:34.55
+sz000024 --- CurrentPrice:27.19 HighestPrice:28.00
+万丰奥威:002085;招商地产:000024 -> new_incr_rate:4.67;-1.88 | new highest_incr_rate:4.79;1.05 | new score:2.16
+update zs_game set current_price="34.51;27.19", incr_rate="4.67;-1.88", highest_price="34.55;28.00", highest_incr_rate="4.79;1.05", score=2.16 where round = 0 and target_stock = "万丰奥威:002085;招商地产:000024"
+新黄浦:600638;凤凰股份:600716
+18.56;11.57|19.00;11.35|2.37;-1.90|19.03;11.50|2.53;-0.61|0.6
+sh600638 --- CurrentPrice:19.39 HighestPrice:19.56
+sh600716 --- CurrentPrice:11.54 HighestPrice:11.57
+新黄浦:600638;凤凰股份:600716 -> new_incr_rate:4.47;-0.26 | new highest_incr_rate:5.39;0.00 | new score:2.40
+update zs_game set current_price="19.39;11.54", incr_rate="4.47;-0.26", highest_price="19.56;11.57", highest_incr_rate="5.39;0.00", score=2.40 where round = 0 and target_stock = "新黄浦:600638;凤凰股份:600716"
+万科A:000002;TCL集团:000100
+13.92;3.86|13.69;3.87|-1.65;0.26|14.00;3.88|0.57;0.52|-0.08
+sz000002 --- CurrentPrice:13.70 HighestPrice:14.00
+sz000100 --- CurrentPrice:3.91 HighestPrice:3.91
+万科A:000002;TCL集团:000100 -> new_incr_rate:-1.58;1.30 | new highest_incr_rate:0.57;1.30 | new score:0.40
+update zs_game set current_price="13.70;3.91", incr_rate="-1.58;1.30", highest_price="14.00;3.91", highest_incr_rate="0.57;1.30", score=0.40 where round = 0 and target_stock = "万科A:000002;TCL集团:000100"
+上海建工:600170;泰禾集团:000732
+9.02;18.72|9.60;18.80|6.43;0.43|9.65;19.00|6.98;1.50|3.84
+sh600170 --- CurrentPrice:9.92 HighestPrice:9.92
+sz000732 --- CurrentPrice:20.22 HighestPrice:20.59
+上海建工:600170;泰禾集团:000732 -> new_incr_rate:9.98;8.01 | new highest_incr_rate:9.98;9.99 | new score:9.49
+update zs_game set current_price="9.92;20.22", incr_rate="9.98;8.01", highest_price="9.92;20.59", highest_incr_rate="9.98;9.99", score=9.49 where round = 0 and target_stock = "上海建工:600170;泰禾集团:000732"
+南风股份:300004;泰禾集团:000732
+47.98;18.72|47.09;18.80|-1.85;0.43|49.30;19.00|2.75;1.50|0.71
+sz300004 --- CurrentPrice:47.990 HighestPrice:49.300
+sz000732 --- CurrentPrice:20.22 HighestPrice:20.59
+南风股份:300004;泰禾集团:000732 -> new_incr_rate:0.02;8.01 | new highest_incr_rate:2.75;9.99 | new score:5.20
+update zs_game set current_price="47.99;20.22", incr_rate="0.02;8.01", highest_price="49.30;20.59", highest_incr_rate="2.75;9.99", score=5.20 where round = 0 and target_stock = "南风股份:300004;泰禾集团:000732"
+中粮生化:000930;重庆路桥:600106
+7.49;5.73|7.65;5.75|2.14;0.35|7.68;5.76|2.54;0.52|1.39
+sz000930 --- CurrentPrice:7.78 HighestPrice:7.86
+sh600106 --- CurrentPrice:5.80 HighestPrice:5.84
+中粮生化:000930;重庆路桥:600106 -> new_incr_rate:3.87;1.22 | new highest_incr_rate:4.94;1.92 | new score:2.99
+update zs_game set current_price="7.78;5.80", incr_rate="3.87;1.22", highest_price="7.86;5.84", highest_incr_rate="4.94;1.92", score=2.99 where round = 0 and target_stock = "中粮生化:000930;重庆路桥:600106"
+长电科技:600584;浦东建设:600284
+13.68;11.56|14.26;11.85|4.24;2.51|14.67;11.85|7.24;2.51|4.13
+sh600584 --- CurrentPrice:14.05 HighestPrice:14.67
+sh600284 --- CurrentPrice:12.19 HighestPrice:12.38
+长电科技:600584;浦东建设:600284 -> new_incr_rate:2.70;5.45 | new highest_incr_rate:7.24;7.09 | new score:5.62
+update zs_game set current_price="14.05;12.19", incr_rate="2.70;5.45", highest_price="14.67;12.38", highest_incr_rate="7.24;7.09", score=5.62 where round = 0 and target_stock = "长电科技:600584;浦东建设:600284"
+顺鑫农业:000860;金风科技:002202
+20.86;14.66|20.89;15.30|0.14;4.37|20.98;15.35|0.58;4.71|2.45
+sz000860 --- CurrentPrice:20.89 HighestPrice:20.98
+sz002202 --- CurrentPrice:15.26 HighestPrice:15.35
+顺鑫农业:000860;金风科技:002202 -> new_incr_rate:0.14;4.09 | new highest_incr_rate:0.58;4.71 | new score:2.38
+update zs_game set current_price="20.89;15.26", incr_rate="0.14;4.09", highest_price="20.98;15.35", highest_incr_rate="0.58;4.71", score=2.38 where round = 0 and target_stock = "顺鑫农业:000860;金风科技:002202"
+龙头股份:600630;新希望:000876
+12.63;15.10|13.50;15.30|6.89;1.32|13.63;15.35|7.92;1.66|4.45
+sh600630 --- CurrentPrice:13.89 HighestPrice:13.89
+sz000876 --- CurrentPrice:15.55 HighestPrice:15.56
+龙头股份:600630;新希望:000876 -> new_incr_rate:9.98;2.98 | new highest_incr_rate:9.98;3.05 | new score:6.50
+update zs_game set current_price="13.89;15.55", incr_rate="9.98;2.98", highest_price="13.89;15.56", highest_incr_rate="9.98;3.05", score=6.50 where round = 0 and target_stock = "龙头股份:600630;新希望:000876"
+川润股份:002272;吉峰农机:300022
+6.93;10.29|6.96;0.00|0.43;-100.00|6.96;0.00|0.43;-100.00|-49.79
+sz002272 --- CurrentPrice:7.06 HighestPrice:7.07
+sz300022 --- CurrentPrice:0.000 HighestPrice:0.000
+川润股份:002272;吉峰农机:300022 -> new_incr_rate:1.88;-100.00 | new highest_incr_rate:2.02;-100.00 | new score:-49.03
+update zs_game set current_price="7.06;0.00", incr_rate="1.88;-100.00", highest_price="7.07;0.00", highest_incr_rate="2.02;-100.00", score=-49.03 where round = 0 and target_stock = "川润股份:002272;吉峰农机:300022"
+旋极信息:300324;东方财富:300059
+49.49;40.15|50.68;41.00|2.40;2.12|51.50;42.13|4.06;4.93|3.38
+sz300324 --- CurrentPrice:50.960 HighestPrice:51.500
+sz300059 --- CurrentPrice:42.290 HighestPrice:42.680
+旋极信息:300324;东方财富:300059 -> new_incr_rate:2.97;5.33 | new highest_incr_rate:4.06;6.30 | new score:4.67
+update zs_game set current_price="50.96;42.29", incr_rate="2.97;5.33", highest_price="51.50;42.68", highest_incr_rate="4.06;6.30", score=4.67 where round = 0 and target_stock = "旋极信息:300324;东方财富:300059"
+东风汽车:600006;龙头股份:600630
+5.70;12.63|5.79;13.50|1.58;6.89|5.85;13.63|2.63;7.92|4.76
+sh600006 --- CurrentPrice:5.83 HighestPrice:5.85
+sh600630 --- CurrentPrice:13.89 HighestPrice:13.89
+东风汽车:600006;龙头股份:600630 -> new_incr_rate:2.28;9.98 | new highest_incr_rate:2.63;9.98 | new score:6.22
+update zs_game set current_price="5.83;13.89", incr_rate="2.28;9.98", highest_price="5.85;13.89", highest_incr_rate="2.63;9.98", score=6.22 where round = 0 and target_stock = "东风汽车:600006;龙头股份:600630"
+保利地产:600048;招商地产:000024
+11.43;27.71|11.29;27.37|-1.22;-1.23|11.40;28.00|-0.26;1.05|-0.42
+sh600048 --- CurrentPrice:11.26 HighestPrice:11.40
+sz000024 --- CurrentPrice:27.19 HighestPrice:28.00
+保利地产:600048;招商地产:000024 -> new_incr_rate:-1.49;-1.88 | new highest_incr_rate:-0.26;1.05 | new score:-0.65
+update zs_game set current_price="11.26;27.19", incr_rate="-1.49;-1.88", highest_price="11.40;28.00", highest_incr_rate="-0.26;1.05", score=-0.65 where round = 0 and target_stock = "保利地产:600048;招商地产:000024"
+重庆港九:600279;长春一东:600148
+14.39;21.32|14.17;21.84|-1.53;2.44|14.36;22.09|-0.21;3.61|1.08
+sh600279 --- CurrentPrice:14.20 HighestPrice:14.36
+sh600148 --- CurrentPrice:21.40 HighestPrice:22.09
+重庆港九:600279;长春一东:600148 -> new_incr_rate:-1.32;0.38 | new highest_incr_rate:-0.21;3.61 | new score:0.62
+update zs_game set current_price="14.20;21.40", incr_rate="-1.32;0.38", highest_price="14.36;22.09", highest_incr_rate="-0.21;3.61", score=0.62 where round = 0 and target_stock = "重庆港九:600279;长春一东:600148"
+--------------------------END-----------------------------
+2015-01-26 15:05:05
+
+
+
+
+2015-01-27 11:35:01
+--------------------------START-----------------------------
+长电科技:600584;华宇软件:300271
+13.68;44.85|14.05;47.02|2.70;4.84|14.67;48.50|7.24;8.14|5.73
+sh600584 --- CurrentPrice:13.97 HighestPrice:14.40
+sz300271 --- CurrentPrice:46.600 HighestPrice:48.000
+长电科技:600584;华宇软件:300271 -> new_incr_rate:2.12;3.90 | new highest_incr_rate:7.24;8.14 | new score:5.35
+update zs_game set current_price="13.97;46.60", incr_rate="2.12;3.90", highest_price="14.67;48.50", highest_incr_rate="7.24;8.14", score=5.35 where round = 0 and target_stock = "长电科技:600584;华宇软件:300271"
+上海建工:600170;南风股份:300004
+9.02;47.98|9.92;47.99|9.98;0.02|9.92;49.30|9.98;2.75|5.69
+sh600170 --- CurrentPrice:10.05 HighestPrice:10.59
+sz300004 --- CurrentPrice:49.350 HighestPrice:50.100
+上海建工:600170;南风股份:300004 -> new_incr_rate:11.42;2.86 | new highest_incr_rate:17.41;4.42 | new score:9.03
+update zs_game set current_price="10.05;49.35", incr_rate="11.42;2.86", highest_price="10.59;50.10", highest_incr_rate="17.41;4.42", score=9.03 where round = 0 and target_stock = "上海建工:600170;南风股份:300004"
+上海电气:601727;招商地产:000024
+10.28;27.71|10.80;27.19|5.06;-1.88|11.08;28.00|7.78;1.05|3
+sh601727 --- CurrentPrice:10.45 HighestPrice:11.26
+sz000024 --- CurrentPrice:25.48 HighestPrice:27.15
+上海电气:601727;招商地产:000024 -> new_incr_rate:1.65;-8.05 | new highest_incr_rate:9.53;1.05 | new score:1.05
+update zs_game set current_price="10.45;25.48", incr_rate="1.65;-8.05", highest_price="11.26;28.00", highest_incr_rate="9.53;1.05", score=1.05 where round = 0 and target_stock = "上海电气:601727;招商地产:000024"
+万丰奥威:002085;招商地产:000024
+32.97;27.71|34.51;27.19|4.67;-1.88|34.55;28.00|4.79;1.05|2.16
+sz002085 --- CurrentPrice:33.50 HighestPrice:34.50
+sz000024 --- CurrentPrice:25.48 HighestPrice:27.15
+万丰奥威:002085;招商地产:000024 -> new_incr_rate:1.61;-8.05 | new highest_incr_rate:4.79;1.05 | new score:-0.15
+update zs_game set current_price="33.50;25.48", incr_rate="1.61;-8.05", highest_price="34.55;28.00", highest_incr_rate="4.79;1.05", score=-0.15 where round = 0 and target_stock = "万丰奥威:002085;招商地产:000024"
+新黄浦:600638;凤凰股份:600716
+18.56;11.57|19.39;11.54|4.47;-0.26|19.56;11.57|5.39;0.00|2.4
+sh600638 --- CurrentPrice:18.85 HighestPrice:19.25
+sh600716 --- CurrentPrice:11.35 HighestPrice:11.74
+新黄浦:600638;凤凰股份:600716 -> new_incr_rate:1.56;-1.90 | new highest_incr_rate:5.39;1.47 | new score:1.63
+update zs_game set current_price="18.85;11.35", incr_rate="1.56;-1.90", highest_price="19.56;11.74", highest_incr_rate="5.39;1.47", score=1.63 where round = 0 and target_stock = "新黄浦:600638;凤凰股份:600716"
+万科A:000002;TCL集团:000100
+13.92;3.86|13.70;3.91|-1.58;1.30|14.00;3.91|0.57;1.30|0.4
+sz000002 --- CurrentPrice:13.03 HighestPrice:13.72
+sz000100 --- CurrentPrice:3.94 HighestPrice:4.06
+万科A:000002;TCL集团:000100 -> new_incr_rate:-6.39;2.07 | new highest_incr_rate:0.57;5.18 | new score:0.36
+update zs_game set current_price="13.03;3.94", incr_rate="-6.39;2.07", highest_price="14.00;4.06", highest_incr_rate="0.57;5.18", score=0.36 where round = 0 and target_stock = "万科A:000002;TCL集团:000100"
+上海建工:600170;泰禾集团:000732
+9.02;18.72|9.92;20.22|9.98;8.01|9.92;20.59|9.98;9.99|9.49
+sh600170 --- CurrentPrice:10.05 HighestPrice:10.59
+sz000732 --- CurrentPrice:20.18 HighestPrice:21.26
+上海建工:600170;泰禾集团:000732 -> new_incr_rate:11.42;7.80 | new highest_incr_rate:17.41;13.57 | new score:12.56
+update zs_game set current_price="10.05;20.18", incr_rate="11.42;7.80", highest_price="10.59;21.26", highest_incr_rate="17.41;13.57", score=12.56 where round = 0 and target_stock = "上海建工:600170;泰禾集团:000732"
+南风股份:300004;泰禾集团:000732
+47.98;18.72|47.99;20.22|0.02;8.01|49.30;20.59|2.75;9.99|5.2
+sz300004 --- CurrentPrice:49.350 HighestPrice:50.100
+sz000732 --- CurrentPrice:20.18 HighestPrice:21.26
+南风股份:300004;泰禾集团:000732 -> new_incr_rate:2.86;7.80 | new highest_incr_rate:4.42;13.57 | new score:7.17
+update zs_game set current_price="49.35;20.18", incr_rate="2.86;7.80", highest_price="50.10;21.26", highest_incr_rate="4.42;13.57", score=7.17 where round = 0 and target_stock = "南风股份:300004;泰禾集团:000732"
+中粮生化:000930;重庆路桥:600106
+7.49;5.73|7.78;5.80|3.87;1.22|7.86;5.84|4.94;1.92|2.99
+sz000930 --- CurrentPrice:7.61 HighestPrice:7.81
+sh600106 --- CurrentPrice:5.84 HighestPrice:5.94
+中粮生化:000930;重庆路桥:600106 -> new_incr_rate:1.60;1.92 | new highest_incr_rate:4.94;3.66 | new score:3.03
+update zs_game set current_price="7.61;5.84", incr_rate="1.60;1.92", highest_price="7.86;5.94", highest_incr_rate="4.94;3.66", score=3.03 where round = 0 and target_stock = "中粮生化:000930;重庆路桥:600106"
+长电科技:600584;浦东建设:600284
+13.68;11.56|14.05;12.19|2.70;5.45|14.67;12.38|7.24;7.09|5.62
+sh600584 --- CurrentPrice:13.97 HighestPrice:14.40
+sh600284 --- CurrentPrice:11.78 HighestPrice:12.16
+长电科技:600584;浦东建设:600284 -> new_incr_rate:2.12;1.90 | new highest_incr_rate:7.24;7.09 | new score:4.59
+update zs_game set current_price="13.97;11.78", incr_rate="2.12;1.90", highest_price="14.67;12.38", highest_incr_rate="7.24;7.09", score=4.59 where round = 0 and target_stock = "长电科技:600584;浦东建设:600284"
+顺鑫农业:000860;金风科技:002202
+20.86;14.66|20.89;15.26|0.14;4.09|20.98;15.35|0.58;4.71|2.38
+sz000860 --- CurrentPrice:20.95 HighestPrice:21.46
+sz002202 --- CurrentPrice:15.07 HighestPrice:15.74
+顺鑫农业:000860;金风科技:002202 -> new_incr_rate:0.43;2.80 | new highest_incr_rate:2.88;7.37 | new score:3.38
+update zs_game set current_price="20.95;15.07", incr_rate="0.43;2.80", highest_price="21.46;15.74", highest_incr_rate="2.88;7.37", score=3.38 where round = 0 and target_stock = "顺鑫农业:000860;金风科技:002202"
+龙头股份:600630;新希望:000876
+12.63;15.10|13.89;15.55|9.98;2.98|13.89;15.56|9.98;3.05|6.5
+sh600630 --- CurrentPrice:13.48 HighestPrice:14.23
+sz000876 --- CurrentPrice:15.25 HighestPrice:15.77
+龙头股份:600630;新希望:000876 -> new_incr_rate:6.73;0.99 | new highest_incr_rate:12.67;4.44 | new score:6.21
+update zs_game set current_price="13.48;15.25", incr_rate="6.73;0.99", highest_price="14.23;15.77", highest_incr_rate="12.67;4.44", score=6.21 where round = 0 and target_stock = "龙头股份:600630;新希望:000876"
+川润股份:002272;吉峰农机:300022
+6.93;10.29|7.06;|1.88;|7.07;|2.02;|0.98
+sz002272 --- CurrentPrice:7.14 HighestPrice:7.17
+sz300022 --- CurrentPrice:0.000 HighestPrice:0.000
+300022 is suspended today!
+300022 is suspended today!
+川润股份:002272;吉峰农机:300022 -> new_incr_rate:3.03; | new highest_incr_rate:3.46; | new score:1.63
+update zs_game set current_price="7.14;", incr_rate="3.03;", highest_price="7.17;", highest_incr_rate="3.46;", score=1.63 where round = 0 and target_stock = "川润股份:002272;吉峰农机:300022"
+旋极信息:300324;东方财富:300059
+49.49;40.15|50.96;42.29|2.97;5.33|51.50;42.68|4.06;6.30|4.67
+sz300324 --- CurrentPrice:49.220 HighestPrice:51.650
+sz300059 --- CurrentPrice:40.790 HighestPrice:42.480
+旋极信息:300324;东方财富:300059 -> new_incr_rate:-0.55;1.59 | new highest_incr_rate:4.36;6.30 | new score:2.93
+update zs_game set current_price="49.22;40.79", incr_rate="-0.55;1.59", highest_price="51.65;42.68", highest_incr_rate="4.36;6.30", score=2.93 where round = 0 and target_stock = "旋极信息:300324;东方财富:300059"
+东风汽车:600006;龙头股份:600630
+5.70;12.63|5.83;13.89|2.28;9.98|5.85;13.89|2.63;9.98|6.22
+sh600006 --- CurrentPrice:6.01 HighestPrice:6.15
+sh600630 --- CurrentPrice:13.48 HighestPrice:14.23
+东风汽车:600006;龙头股份:600630 -> new_incr_rate:5.44;6.73 | new highest_incr_rate:7.89;12.67 | new score:8.19
+update zs_game set current_price="6.01;13.48", incr_rate="5.44;6.73", highest_price="6.15;14.23", highest_incr_rate="7.89;12.67", score=8.19 where round = 0 and target_stock = "东风汽车:600006;龙头股份:600630"
+保利地产:600048;招商地产:000024
+11.43;27.71|11.26;27.19|-1.49;-1.88|11.40;28.00|-0.26;1.05|-0.65
+sh600048 --- CurrentPrice:10.58 HighestPrice:11.34
+sz000024 --- CurrentPrice:25.48 HighestPrice:27.15
+保利地产:600048;招商地产:000024 -> new_incr_rate:-7.44;-8.05 | new highest_incr_rate:-0.26;1.05 | new score:-3.68
+update zs_game set current_price="10.58;25.48", incr_rate="-7.44;-8.05", highest_price="11.40;28.00", highest_incr_rate="-0.26;1.05", score=-3.68 where round = 0 and target_stock = "保利地产:600048;招商地产:000024"
+重庆港九:600279;长春一东:600148
+14.39;21.32|14.20;21.40|-1.32;0.38|14.36;22.09|-0.21;3.61|0.62
+sh600279 --- CurrentPrice:13.99 HighestPrice:14.25
+sh600148 --- CurrentPrice:20.82 HighestPrice:21.60
+重庆港九:600279;长春一东:600148 -> new_incr_rate:-2.78;-2.35 | new highest_incr_rate:-0.21;3.61 | new score:-0.44
+update zs_game set current_price="13.99;20.82", incr_rate="-2.78;-2.35", highest_price="14.36;22.09", highest_incr_rate="-0.21;3.61", score=-0.44 where round = 0 and target_stock = "重庆港九:600279;长春一东:600148"
+--------------------------END-----------------------------
+2015-01-27 11:35:08
+
+
+
+
+2015-01-27 15:05:01
+--------------------------START-----------------------------
+长电科技:600584;华宇软件:300271
+13.68;44.85|13.97;46.60|2.12;3.90|14.67;48.50|7.24;8.14|5.35
+sh600584 --- CurrentPrice:14.18 HighestPrice:14.40
+sz300271 --- CurrentPrice:47.320 HighestPrice:48.000
+长电科技:600584;华宇软件:300271 -> new_incr_rate:3.65;5.51 | new highest_incr_rate:7.24;8.14 | new score:6.14
+update zs_game set current_price="14.18;47.32", incr_rate="3.65;5.51", highest_price="14.67;48.50", highest_incr_rate="7.24;8.14", score=6.14 where round = 0 and target_stock = "长电科技:600584;华宇软件:300271"
+上海建工:600170;南风股份:300004
+9.02;47.98|10.05;49.35|11.42;2.86|10.59;50.10|17.41;4.42|9.03
+sh600170 --- CurrentPrice:10.07 HighestPrice:10.59
+sz300004 --- CurrentPrice:49.440 HighestPrice:50.100
+上海建工:600170;南风股份:300004 -> new_incr_rate:11.64;3.04 | new highest_incr_rate:17.41;4.42 | new score:9.13
+update zs_game set current_price="10.07;49.44", incr_rate="11.64;3.04", highest_price="10.59;50.10", highest_incr_rate="17.41;4.42", score=9.13 where round = 0 and target_stock = "上海建工:600170;南风股份:300004"
+上海电气:601727;招商地产:000024
+10.28;27.71|10.45;25.48|1.65;-8.05|11.26;28.00|9.53;1.05|1.05
+sh601727 --- CurrentPrice:11.01 HighestPrice:11.26
+sz000024 --- CurrentPrice:25.79 HighestPrice:27.15
+上海电气:601727;招商地产:000024 -> new_incr_rate:7.10;-6.93 | new highest_incr_rate:9.53;1.05 | new score:2.69
+update zs_game set current_price="11.01;25.79", incr_rate="7.10;-6.93", highest_price="11.26;28.00", highest_incr_rate="9.53;1.05", score=2.69 where round = 0 and target_stock = "上海电气:601727;招商地产:000024"
+万丰奥威:002085;招商地产:000024
+32.97;27.71|33.50;25.48|1.61;-8.05|34.55;28.00|4.79;1.05|-0.15
+sz002085 --- CurrentPrice:34.00 HighestPrice:34.50
+sz000024 --- CurrentPrice:25.79 HighestPrice:27.15
+万丰奥威:002085;招商地产:000024 -> new_incr_rate:3.12;-6.93 | new highest_incr_rate:4.79;1.05 | new score:0.51
+update zs_game set current_price="34.00;25.79", incr_rate="3.12;-6.93", highest_price="34.55;28.00", highest_incr_rate="4.79;1.05", score=0.51 where round = 0 and target_stock = "万丰奥威:002085;招商地产:000024"
+新黄浦:600638;凤凰股份:600716
+18.56;11.57|18.85;11.35|1.56;-1.90|19.56;11.74|5.39;1.47|1.63
+sh600638 --- CurrentPrice:19.08 HighestPrice:19.25
+sh600716 --- CurrentPrice:11.30 HighestPrice:11.74
+新黄浦:600638;凤凰股份:600716 -> new_incr_rate:2.80;-2.33 | new highest_incr_rate:5.39;1.47 | new score:1.84
+update zs_game set current_price="19.08;11.30", incr_rate="2.80;-2.33", highest_price="19.56;11.74", highest_incr_rate="5.39;1.47", score=1.84 where round = 0 and target_stock = "新黄浦:600638;凤凰股份:600716"
+万科A:000002;TCL集团:000100
+13.92;3.86|13.03;3.94|-6.39;2.07|14.00;4.06|0.57;5.18|0.36
+sz000002 --- CurrentPrice:13.18 HighestPrice:13.72
+sz000100 --- CurrentPrice:3.97 HighestPrice:4.06
+万科A:000002;TCL集团:000100 -> new_incr_rate:-5.32;2.85 | new highest_incr_rate:0.57;5.18 | new score:0.82
+update zs_game set current_price="13.18;3.97", incr_rate="-5.32;2.85", highest_price="14.00;4.06", highest_incr_rate="0.57;5.18", score=0.82 where round = 0 and target_stock = "万科A:000002;TCL集团:000100"
+上海建工:600170;泰禾集团:000732
+9.02;18.72|10.05;20.18|11.42;7.80|10.59;21.26|17.41;13.57|12.56
+sh600170 --- CurrentPrice:10.07 HighestPrice:10.59
+sz000732 --- CurrentPrice:19.62 HighestPrice:21.26
+上海建工:600170;泰禾集团:000732 -> new_incr_rate:11.64;4.81 | new highest_incr_rate:17.41;13.57 | new score:11.86
+update zs_game set current_price="10.07;19.62", incr_rate="11.64;4.81", highest_price="10.59;21.26", highest_incr_rate="17.41;13.57", score=11.86 where round = 0 and target_stock = "上海建工:600170;泰禾集团:000732"
+南风股份:300004;泰禾集团:000732
+47.98;18.72|49.35;20.18|2.86;7.80|50.10;21.26|4.42;13.57|7.17
+sz300004 --- CurrentPrice:49.440 HighestPrice:50.100
+sz000732 --- CurrentPrice:19.62 HighestPrice:21.26
+南风股份:300004;泰禾集团:000732 -> new_incr_rate:3.04;4.81 | new highest_incr_rate:4.42;13.57 | new score:6.46
+update zs_game set current_price="49.44;19.62", incr_rate="3.04;4.81", highest_price="50.10;21.26", highest_incr_rate="4.42;13.57", score=6.46 where round = 0 and target_stock = "南风股份:300004;泰禾集团:000732"
+中粮生化:000930;重庆路桥:600106
+7.49;5.73|7.61;5.84|1.60;1.92|7.86;5.94|4.94;3.66|3.03
+sz000930 --- CurrentPrice:7.70 HighestPrice:7.81
+sh600106 --- CurrentPrice:6.06 HighestPrice:6.13
+中粮生化:000930;重庆路桥:600106 -> new_incr_rate:2.80;5.76 | new highest_incr_rate:4.94;6.98 | new score:5.12
+update zs_game set current_price="7.70;6.06", incr_rate="2.80;5.76", highest_price="7.86;6.13", highest_incr_rate="4.94;6.98", score=5.12 where round = 0 and target_stock = "中粮生化:000930;重庆路桥:600106"
+长电科技:600584;浦东建设:600284
+13.68;11.56|13.97;11.78|2.12;1.90|14.67;12.38|7.24;7.09|4.59
+sh600584 --- CurrentPrice:14.18 HighestPrice:14.40
+sh600284 --- CurrentPrice:11.89 HighestPrice:12.16
+长电科技:600584;浦东建设:600284 -> new_incr_rate:3.65;2.85 | new highest_incr_rate:7.24;7.09 | new score:5.21
+update zs_game set current_price="14.18;11.89", incr_rate="3.65;2.85", highest_price="14.67;12.38", highest_incr_rate="7.24;7.09", score=5.21 where round = 0 and target_stock = "长电科技:600584;浦东建设:600284"
+顺鑫农业:000860;金风科技:002202
+20.86;14.66|20.95;15.07|0.43;2.80|21.46;15.74|2.88;7.37|3.38
+sz000860 --- CurrentPrice:21.23 HighestPrice:21.46
+sz002202 --- CurrentPrice:15.56 HighestPrice:15.74
+顺鑫农业:000860;金风科技:002202 -> new_incr_rate:1.77;6.14 | new highest_incr_rate:2.88;7.37 | new score:4.55
+update zs_game set current_price="21.23;15.56", incr_rate="1.77;6.14", highest_price="21.46;15.74", highest_incr_rate="2.88;7.37", score=4.55 where round = 0 and target_stock = "顺鑫农业:000860;金风科技:002202"
+龙头股份:600630;新希望:000876
+12.63;15.10|13.48;15.25|6.73;0.99|14.23;15.77|12.67;4.44|6.21
+sh600630 --- CurrentPrice:13.92 HighestPrice:14.23
+sz000876 --- CurrentPrice:15.75 HighestPrice:15.86
+龙头股份:600630;新希望:000876 -> new_incr_rate:10.21;4.30 | new highest_incr_rate:12.67;5.03 | new score:8.06
+update zs_game set current_price="13.92;15.75", incr_rate="10.21;4.30", highest_price="14.23;15.86", highest_incr_rate="12.67;5.03", score=8.06 where round = 0 and target_stock = "龙头股份:600630;新希望:000876"
+川润股份:002272;吉峰农机:300022
+6.93;10.29|7.14;|3.03;|7.17;|3.46;|1.63
+sz002272 --- CurrentPrice:7.26 HighestPrice:7.28
+sz300022 --- CurrentPrice:0.000 HighestPrice:0.000
+300022 is suspended today!
+300022 is suspended today!
+川润股份:002272;吉峰农机:300022 -> new_incr_rate:4.76; | new highest_incr_rate:5.05; | new score:2.46
+update zs_game set current_price="7.26;", incr_rate="4.76;", highest_price="7.28;", highest_incr_rate="5.05;", score=2.46 where round = 0 and target_stock = "川润股份:002272;吉峰农机:300022"
+旋极信息:300324;东方财富:300059
+49.49;40.15|49.22;40.79|-0.55;1.59|51.65;42.68|4.36;6.30|2.93
+sz300324 --- CurrentPrice:49.500 HighestPrice:51.650
+sz300059 --- CurrentPrice:41.660 HighestPrice:42.510
+旋极信息:300324;东方财富:300059 -> new_incr_rate:0.02;3.76 | new highest_incr_rate:4.36;6.30 | new score:3.61
+update zs_game set current_price="49.50;41.66", incr_rate="0.02;3.76", highest_price="51.65;42.68", highest_incr_rate="4.36;6.30", score=3.61 where round = 0 and target_stock = "旋极信息:300324;东方财富:300059"
+东风汽车:600006;龙头股份:600630
+5.70;12.63|6.01;13.48|5.44;6.73|6.15;14.23|7.89;12.67|8.19
+sh600006 --- CurrentPrice:6.29 HighestPrice:6.33
+sh600630 --- CurrentPrice:13.92 HighestPrice:14.23
+东风汽车:600006;龙头股份:600630 -> new_incr_rate:10.35;10.21 | new highest_incr_rate:11.05;12.67 | new score:11.07
+update zs_game set current_price="6.29;13.92", incr_rate="10.35;10.21", highest_price="6.33;14.23", highest_incr_rate="11.05;12.67", score=11.07 where round = 0 and target_stock = "东风汽车:600006;龙头股份:600630"
+保利地产:600048;招商地产:000024
+11.43;27.71|10.58;25.48|-7.44;-8.05|11.40;28.00|-0.26;1.05|-3.68
+sh600048 --- CurrentPrice:10.74 HighestPrice:11.34
+sz000024 --- CurrentPrice:25.79 HighestPrice:27.15
+保利地产:600048;招商地产:000024 -> new_incr_rate:-6.04;-6.93 | new highest_incr_rate:-0.26;1.05 | new score:-3.05
+update zs_game set current_price="10.74;25.79", incr_rate="-6.04;-6.93", highest_price="11.40;28.00", highest_incr_rate="-0.26;1.05", score=-3.05 where round = 0 and target_stock = "保利地产:600048;招商地产:000024"
+重庆港九:600279;长春一东:600148
+14.39;21.32|13.99;20.82|-2.78;-2.35|14.36;22.09|-0.21;3.61|-0.44
+sh600279 --- CurrentPrice:14.29 HighestPrice:14.35
+sh600148 --- CurrentPrice:21.01 HighestPrice:21.60
+重庆港九:600279;长春一东:600148 -> new_incr_rate:-0.69;-1.45 | new highest_incr_rate:-0.21;3.61 | new score:0.32
+update zs_game set current_price="14.29;21.01", incr_rate="-0.69;-1.45", highest_price="14.36;22.09", highest_incr_rate="-0.21;3.61", score=0.32 where round = 0 and target_stock = "重庆港九:600279;长春一东:600148"
+--------------------------END-----------------------------
+2015-01-27 15:05:05
+
+
+
+
+2015-01-28 11:35:01
+--------------------------START-----------------------------
+长电科技:600584;华宇软件:300271
+13.68;44.85|14.18;47.32|3.65;5.51|14.67;48.50|7.24;8.14|6.14
+sh600584 --- CurrentPrice:14.16 HighestPrice:14.44
+sz300271 --- CurrentPrice:51.510 HighestPrice:52.050
+长电科技:600584;华宇软件:300271 -> new_incr_rate:3.51;14.85 | new highest_incr_rate:7.24;16.05 | new score:10.42
+update zs_game set current_price="14.16;51.51", incr_rate="3.51;14.85", highest_price="14.67;52.05", highest_incr_rate="7.24;16.05", score=10.42 where round = 0 and target_stock = "长电科技:600584;华宇软件:300271"
+上海建工:600170;南风股份:300004
+9.02;47.98|10.07;49.44|11.64;3.04|10.59;50.10|17.41;4.42|9.13
+sh600170 --- CurrentPrice:10.35 HighestPrice:10.57
+sz300004 --- CurrentPrice:48.880 HighestPrice:49.990
+上海建工:600170;南风股份:300004 -> new_incr_rate:14.75;1.88 | new highest_incr_rate:17.41;4.42 | new score:9.62
+update zs_game set current_price="10.35;48.88", incr_rate="14.75;1.88", highest_price="10.59;50.10", highest_incr_rate="17.41;4.42", score=9.62 where round = 0 and target_stock = "上海建工:600170;南风股份:300004"
+上海电气:601727;招商地产:000024
+10.28;27.71|11.01;25.79|7.10;-6.93|11.26;28.00|9.53;1.05|2.69
+sh601727 --- CurrentPrice:10.75 HighestPrice:10.89
+sz000024 --- CurrentPrice:25.13 HighestPrice:25.40
+上海电气:601727;招商地产:000024 -> new_incr_rate:4.57;-9.31 | new highest_incr_rate:9.53;1.05 | new score:1.46
+update zs_game set current_price="10.75;25.13", incr_rate="4.57;-9.31", highest_price="11.26;28.00", highest_incr_rate="9.53;1.05", score=1.46 where round = 0 and target_stock = "上海电气:601727;招商地产:000024"
+万丰奥威:002085;招商地产:000024
+32.97;27.71|34.00;25.79|3.12;-6.93|34.55;28.00|4.79;1.05|0.51
+sz002085 --- CurrentPrice:34.39 HighestPrice:34.80
+sz000024 --- CurrentPrice:25.13 HighestPrice:25.40
+万丰奥威:002085;招商地产:000024 -> new_incr_rate:4.31;-9.31 | new highest_incr_rate:5.55;1.05 | new score:0.40
+update zs_game set current_price="34.39;25.13", incr_rate="4.31;-9.31", highest_price="34.80;28.00", highest_incr_rate="5.55;1.05", score=0.40 where round = 0 and target_stock = "万丰奥威:002085;招商地产:000024"
+新黄浦:600638;凤凰股份:600716
+18.56;11.57|19.08;11.30|2.80;-2.33|19.56;11.74|5.39;1.47|1.84
+sh600638 --- CurrentPrice:18.80 HighestPrice:19.06
+sh600716 --- CurrentPrice:10.98 HighestPrice:11.17
+新黄浦:600638;凤凰股份:600716 -> new_incr_rate:1.29;-5.10 | new highest_incr_rate:5.39;1.47 | new score:0.76
+update zs_game set current_price="18.80;10.98", incr_rate="1.29;-5.10", highest_price="19.56;11.74", highest_incr_rate="5.39;1.47", score=0.76 where round = 0 and target_stock = "新黄浦:600638;凤凰股份:600716"
+万科A:000002;TCL集团:000100
+13.92;3.86|13.18;3.97|-5.32;2.85|14.00;4.06|0.57;5.18|0.82
+sz000002 --- CurrentPrice:13.01 HighestPrice:13.11
+sz000100 --- CurrentPrice:3.90 HighestPrice:3.94
+万科A:000002;TCL集团:000100 -> new_incr_rate:-6.54;1.04 | new highest_incr_rate:0.57;5.18 | new score:0.06
+update zs_game set current_price="13.01;3.90", incr_rate="-6.54;1.04", highest_price="14.00;4.06", highest_incr_rate="0.57;5.18", score=0.06 where round = 0 and target_stock = "万科A:000002;TCL集团:000100"
+上海建工:600170;泰禾集团:000732
+9.02;18.72|10.07;19.62|11.64;4.81|10.59;21.26|17.41;13.57|11.86
+sh600170 --- CurrentPrice:10.35 HighestPrice:10.57
+sz000732 --- CurrentPrice:20.00 HighestPrice:20.50
+上海建工:600170;泰禾集团:000732 -> new_incr_rate:14.75;6.84 | new highest_incr_rate:17.41;13.57 | new score:13.15
+update zs_game set current_price="10.35;20.00", incr_rate="14.75;6.84", highest_price="10.59;21.26", highest_incr_rate="17.41;13.57", score=13.15 where round = 0 and target_stock = "上海建工:600170;泰禾集团:000732"
+南风股份:300004;泰禾集团:000732
+47.98;18.72|49.44;19.62|3.04;4.81|50.10;21.26|4.42;13.57|6.46
+sz300004 --- CurrentPrice:48.880 HighestPrice:49.990
+sz000732 --- CurrentPrice:20.00 HighestPrice:20.50
+南风股份:300004;泰禾集团:000732 -> new_incr_rate:1.88;6.84 | new highest_incr_rate:4.42;13.57 | new score:6.68
+update zs_game set current_price="48.88;20.00", incr_rate="1.88;6.84", highest_price="50.10;21.26", highest_incr_rate="4.42;13.57", score=6.68 where round = 0 and target_stock = "南风股份:300004;泰禾集团:000732"
+中粮生化:000930;重庆路桥:600106
+7.49;5.73|7.70;6.06|2.80;5.76|7.86;6.13|4.94;6.98|5.12
+sz000930 --- CurrentPrice:7.92 HighestPrice:8.09
+sh600106 --- CurrentPrice:6.00 HighestPrice:6.08
+中粮生化:000930;重庆路桥:600106 -> new_incr_rate:5.74;4.71 | new highest_incr_rate:8.01;6.98 | new score:6.37
+update zs_game set current_price="7.92;6.00", incr_rate="5.74;4.71", highest_price="8.09;6.13", highest_incr_rate="8.01;6.98", score=6.37 where round = 0 and target_stock = "中粮生化:000930;重庆路桥:600106"
+长电科技:600584;浦东建设:600284
+13.68;11.56|14.18;11.89|3.65;2.85|14.67;12.38|7.24;7.09|5.21
+sh600584 --- CurrentPrice:14.16 HighestPrice:14.44
+sh600284 --- CurrentPrice:11.94 HighestPrice:12.05
+长电科技:600584;浦东建设:600284 -> new_incr_rate:3.51;3.29 | new highest_incr_rate:7.24;7.09 | new score:5.29
+update zs_game set current_price="14.16;11.94", incr_rate="3.51;3.29", highest_price="14.67;12.38", highest_incr_rate="7.24;7.09", score=5.29 where round = 0 and target_stock = "长电科技:600584;浦东建设:600284"
+顺鑫农业:000860;金风科技:002202
+20.86;14.66|21.23;15.56|1.77;6.14|21.46;15.74|2.88;7.37|4.55
+sz000860 --- CurrentPrice:20.90 HighestPrice:21.23
+sz002202 --- CurrentPrice:15.27 HighestPrice:15.50
+顺鑫农业:000860;金风科技:002202 -> new_incr_rate:0.19;4.16 | new highest_incr_rate:2.88;7.37 | new score:3.66
+update zs_game set current_price="20.90;15.27", incr_rate="0.19;4.16", highest_price="21.46;15.74", highest_incr_rate="2.88;7.37", score=3.66 where round = 0 and target_stock = "顺鑫农业:000860;金风科技:002202"
+龙头股份:600630;新希望:000876
+12.63;15.10|13.92;15.75|10.21;4.30|14.23;15.86|12.67;5.03|8.06
+sh600630 --- CurrentPrice:13.80 HighestPrice:13.89
+sz000876 --- CurrentPrice:16.07 HighestPrice:16.24
+龙头股份:600630;新希望:000876 -> new_incr_rate:9.26;6.42 | new highest_incr_rate:12.67;7.55 | new score:8.98
+update zs_game set current_price="13.80;16.07", incr_rate="9.26;6.42", highest_price="14.23;16.24", highest_incr_rate="12.67;7.55", score=8.98 where round = 0 and target_stock = "龙头股份:600630;新希望:000876"
+川润股份:002272;吉峰农机:300022
+6.93;10.29|7.26;|4.76;|7.28;|5.05;|2.46
+sz002272 --- CurrentPrice:7.34 HighestPrice:7.44
+sz300022 --- CurrentPrice:0.000 HighestPrice:0.000
+300022 is suspended today!
+300022 is suspended today!
+川润股份:002272;吉峰农机:300022 -> new_incr_rate:5.92; | new highest_incr_rate:7.36; | new score:3.32
+update zs_game set current_price="7.34;", incr_rate="5.92;", highest_price="7.44;", highest_incr_rate="7.36;", score=3.32 where round = 0 and target_stock = "川润股份:002272;吉峰农机:300022"
+旋极信息:300324;东方财富:300059
+49.49;40.15|49.50;41.66|0.02;3.76|51.65;42.68|4.36;6.30|3.61
+sz300324 --- CurrentPrice:50.570 HighestPrice:51.200
+sz300059 --- CurrentPrice:41.230 HighestPrice:42.030
+旋极信息:300324;东方财富:300059 -> new_incr_rate:2.18;2.69 | new highest_incr_rate:4.36;6.30 | new score:3.89
+update zs_game set current_price="50.57;41.23", incr_rate="2.18;2.69", highest_price="51.65;42.68", highest_incr_rate="4.36;6.30", score=3.89 where round = 0 and target_stock = "旋极信息:300324;东方财富:300059"
+东风汽车:600006;龙头股份:600630
+5.70;12.63|6.29;13.92|10.35;10.21|6.33;14.23|11.05;12.67|11.07
+sh600006 --- CurrentPrice:6.07 HighestPrice:6.24
+sh600630 --- CurrentPrice:13.80 HighestPrice:13.89
+东风汽车:600006;龙头股份:600630 -> new_incr_rate:6.49;9.26 | new highest_incr_rate:11.05;12.67 | new score:9.87
+update zs_game set current_price="6.07;13.80", incr_rate="6.49;9.26", highest_price="6.33;14.23", highest_incr_rate="11.05;12.67", score=9.87 where round = 0 and target_stock = "东风汽车:600006;龙头股份:600630"
+保利地产:600048;招商地产:000024
+11.43;27.71|10.74;25.79|-6.04;-6.93|11.40;28.00|-0.26;1.05|-3.05
+sh600048 --- CurrentPrice:10.38 HighestPrice:10.65
+sz000024 --- CurrentPrice:25.13 HighestPrice:25.40
+保利地产:600048;招商地产:000024 -> new_incr_rate:-9.19;-9.31 | new highest_incr_rate:-0.26;1.05 | new score:-4.43
+update zs_game set current_price="10.38;25.13", incr_rate="-9.19;-9.31", highest_price="11.40;28.00", highest_incr_rate="-0.26;1.05", score=-4.43 where round = 0 and target_stock = "保利地产:600048;招商地产:000024"
+重庆港九:600279;长春一东:600148
+14.39;21.32|14.29;21.01|-0.69;-1.45|14.36;22.09|-0.21;3.61|0.32
+sh600279 --- CurrentPrice:14.70 HighestPrice:14.95
+sh600148 --- CurrentPrice:20.89 HighestPrice:21.22
+重庆港九:600279;长春一东:600148 -> new_incr_rate:2.15;-2.02 | new highest_incr_rate:3.89;3.61 | new score:1.91
+update zs_game set current_price="14.70;20.89", incr_rate="2.15;-2.02", highest_price="14.95;22.09", highest_incr_rate="3.89;3.61", score=1.91 where round = 0 and target_stock = "重庆港九:600279;长春一东:600148"
+--------------------------END-----------------------------
+2015-01-28 11:35:03
+
+
+
+
+2015-01-28 15:05:01
+--------------------------START-----------------------------
+长电科技:600584;华宇软件:300271
+13.68;44.85|14.16;51.51|3.51;14.85|14.67;52.05|7.24;16.05|10.42
+sh600584 --- CurrentPrice:13.76 HighestPrice:14.44
+sz300271 --- CurrentPrice:50.700 HighestPrice:52.050
+长电科技:600584;华宇软件:300271 -> new_incr_rate:0.58;13.04 | new highest_incr_rate:7.24;16.05 | new score:9.23
+update zs_game set current_price="13.76;50.70", incr_rate="0.58;13.04", highest_price="14.67;52.05", highest_incr_rate="7.24;16.05", score=9.23 where round = 0 and target_stock = "长电科技:600584;华宇软件:300271"
+上海建工:600170;南风股份:300004
+9.02;47.98|10.35;48.88|14.75;1.88|10.59;50.10|17.41;4.42|9.62
+sh600170 --- CurrentPrice:10.30 HighestPrice:10.57
+sz300004 --- CurrentPrice:48.670 HighestPrice:49.990
+上海建工:600170;南风股份:300004 -> new_incr_rate:14.19;1.44 | new highest_incr_rate:17.41;4.42 | new score:9.37
+update zs_game set current_price="10.30;48.67", incr_rate="14.19;1.44", highest_price="10.59;50.10", highest_incr_rate="17.41;4.42", score=9.37 where round = 0 and target_stock = "上海建工:600170;南风股份:300004"
+上海电气:601727;招商地产:000024
+10.28;27.71|10.75;25.13|4.57;-9.31|11.26;28.00|9.53;1.05|1.46
+sh601727 --- CurrentPrice:10.64 HighestPrice:10.89
+sz000024 --- CurrentPrice:25.01 HighestPrice:25.60
+上海电气:601727;招商地产:000024 -> new_incr_rate:3.50;-9.74 | new highest_incr_rate:9.53;1.05 | new score:1.09
+update zs_game set current_price="10.64;25.01", incr_rate="3.50;-9.74", highest_price="11.26;28.00", highest_incr_rate="9.53;1.05", score=1.09 where round = 0 and target_stock = "上海电气:601727;招商地产:000024"
+万丰奥威:002085;招商地产:000024
+32.97;27.71|34.39;25.13|4.31;-9.31|34.80;28.00|5.55;1.05|0.4
+sz002085 --- CurrentPrice:34.48 HighestPrice:34.85
+sz000024 --- CurrentPrice:25.01 HighestPrice:25.60
+万丰奥威:002085;招商地产:000024 -> new_incr_rate:4.58;-9.74 | new highest_incr_rate:5.70;1.05 | new score:0.40
+update zs_game set current_price="34.48;25.01", incr_rate="4.58;-9.74", highest_price="34.85;28.00", highest_incr_rate="5.70;1.05", score=0.40 where round = 0 and target_stock = "万丰奥威:002085;招商地产:000024"
+新黄浦:600638;凤凰股份:600716
+18.56;11.57|18.80;10.98|1.29;-5.10|19.56;11.74|5.39;1.47|0.76
+sh600638 --- CurrentPrice:18.92 HighestPrice:19.12
+sh600716 --- CurrentPrice:10.80 HighestPrice:11.17
+新黄浦:600638;凤凰股份:600716 -> new_incr_rate:1.94;-6.66 | new highest_incr_rate:5.39;1.47 | new score:0.54
+update zs_game set current_price="18.92;10.80", incr_rate="1.94;-6.66", highest_price="19.56;11.74", highest_incr_rate="5.39;1.47", score=0.54 where round = 0 and target_stock = "新黄浦:600638;凤凰股份:600716"
+万科A:000002;TCL集团:000100
+13.92;3.86|13.01;3.90|-6.54;1.04|14.00;4.06|0.57;5.18|0.06
+sz000002 --- CurrentPrice:13.00 HighestPrice:13.27
+sz000100 --- CurrentPrice:3.89 HighestPrice:3.94
+万科A:000002;TCL集团:000100 -> new_incr_rate:-6.61;0.78 | new highest_incr_rate:0.57;5.18 | new score:-0.02
+update zs_game set current_price="13.00;3.89", incr_rate="-6.61;0.78", highest_price="14.00;4.06", highest_incr_rate="0.57;5.18", score=-0.02 where round = 0 and target_stock = "万科A:000002;TCL集团:000100"
+上海建工:600170;泰禾集团:000732
+9.02;18.72|10.35;20.00|14.75;6.84|10.59;21.26|17.41;13.57|13.15
+sh600170 --- CurrentPrice:10.30 HighestPrice:10.57
+sz000732 --- CurrentPrice:19.88 HighestPrice:20.50
+上海建工:600170;泰禾集团:000732 -> new_incr_rate:14.19;6.20 | new highest_incr_rate:17.41;13.57 | new score:12.85
+update zs_game set current_price="10.30;19.88", incr_rate="14.19;6.20", highest_price="10.59;21.26", highest_incr_rate="17.41;13.57", score=12.85 where round = 0 and target_stock = "上海建工:600170;泰禾集团:000732"
+南风股份:300004;泰禾集团:000732
+47.98;18.72|48.88;20.00|1.88;6.84|50.10;21.26|4.42;13.57|6.68
+sz300004 --- CurrentPrice:48.670 HighestPrice:49.990
+sz000732 --- CurrentPrice:19.88 HighestPrice:20.50
+南风股份:300004;泰禾集团:000732 -> new_incr_rate:1.44;6.20 | new highest_incr_rate:4.42;13.57 | new score:6.41
+update zs_game set current_price="48.67;19.88", incr_rate="1.44;6.20", highest_price="50.10;21.26", highest_incr_rate="4.42;13.57", score=6.41 where round = 0 and target_stock = "南风股份:300004;泰禾集团:000732"
+中粮生化:000930;重庆路桥:600106
+7.49;5.73|7.92;6.00|5.74;4.71|8.09;6.13|8.01;6.98|6.37
+sz000930 --- CurrentPrice:7.79 HighestPrice:8.09
+sh600106 --- CurrentPrice:6.24 HighestPrice:6.58
+中粮生化:000930;重庆路桥:600106 -> new_incr_rate:4.01;8.90 | new highest_incr_rate:8.01;14.83 | new score:8.94
+update zs_game set current_price="7.79;6.24", incr_rate="4.01;8.90", highest_price="8.09;6.58", highest_incr_rate="8.01;14.83", score=8.94 where round = 0 and target_stock = "中粮生化:000930;重庆路桥:600106"
+长电科技:600584;浦东建设:600284
+13.68;11.56|14.16;11.94|3.51;3.29|14.67;12.38|7.24;7.09|5.29
+sh600584 --- CurrentPrice:13.76 HighestPrice:14.44
+sh600284 --- CurrentPrice:11.78 HighestPrice:12.05
+长电科技:600584;浦东建设:600284 -> new_incr_rate:0.58;1.90 | new highest_incr_rate:7.24;7.09 | new score:4.21
+update zs_game set current_price="13.76;11.78", incr_rate="0.58;1.90", highest_price="14.67;12.38", highest_incr_rate="7.24;7.09", score=4.21 where round = 0 and target_stock = "长电科技:600584;浦东建设:600284"
+顺鑫农业:000860;金风科技:002202
+20.86;14.66|20.90;15.27|0.19;4.16|21.46;15.74|2.88;7.37|3.66
+sz000860 --- CurrentPrice:20.84 HighestPrice:21.23
+sz002202 --- CurrentPrice:15.17 HighestPrice:15.50
+顺鑫农业:000860;金风科技:002202 -> new_incr_rate:-0.10;3.48 | new highest_incr_rate:2.88;7.37 | new score:3.41
+update zs_game set current_price="20.84;15.17", incr_rate="-0.10;3.48", highest_price="21.46;15.74", highest_incr_rate="2.88;7.37", score=3.41 where round = 0 and target_stock = "顺鑫农业:000860;金风科技:002202"
+龙头股份:600630;新希望:000876
+12.63;15.10|13.80;16.07|9.26;6.42|14.23;16.24|12.67;7.55|8.98
+sh600630 --- CurrentPrice:13.62 HighestPrice:13.95
+sz000876 --- CurrentPrice:15.94 HighestPrice:16.24
+龙头股份:600630;新希望:000876 -> new_incr_rate:7.84;5.56 | new highest_incr_rate:12.67;7.55 | new score:8.41
+update zs_game set current_price="13.62;15.94", incr_rate="7.84;5.56", highest_price="14.23;16.24", highest_incr_rate="12.67;7.55", score=8.41 where round = 0 and target_stock = "龙头股份:600630;新希望:000876"
+川润股份:002272;吉峰农机:300022
+6.93;10.29|7.34;|5.92;|7.44;|7.36;|3.32
+sz002272 --- CurrentPrice:7.26 HighestPrice:7.44
+sz300022 --- CurrentPrice:0.000 HighestPrice:0.000
+300022 is suspended today!
+300022 is suspended today!
+川润股份:002272;吉峰农机:300022 -> new_incr_rate:4.76; | new highest_incr_rate:7.36; | new score:3.03
+update zs_game set current_price="7.26;", incr_rate="4.76;", highest_price="7.44;", highest_incr_rate="7.36;", score=3.03 where round = 0 and target_stock = "川润股份:002272;吉峰农机:300022"
+旋极信息:300324;东方财富:300059
+49.49;40.15|50.57;41.23|2.18;2.69|51.65;42.68|4.36;6.30|3.89
+sz300324 --- CurrentPrice:48.940 HighestPrice:51.200
+sz300059 --- CurrentPrice:39.900 HighestPrice:42.030
+旋极信息:300324;东方财富:300059 -> new_incr_rate:-1.11;-0.62 | new highest_incr_rate:4.36;6.30 | new score:2.24
+update zs_game set current_price="48.94;39.90", incr_rate="-1.11;-0.62", highest_price="51.65;42.68", highest_incr_rate="4.36;6.30", score=2.24 where round = 0 and target_stock = "旋极信息:300324;东方财富:300059"
+东风汽车:600006;龙头股份:600630
+5.70;12.63|6.07;13.80|6.49;9.26|6.33;14.23|11.05;12.67|9.87
+sh600006 --- CurrentPrice:6.02 HighestPrice:6.24
+sh600630 --- CurrentPrice:13.62 HighestPrice:13.95
+东风汽车:600006;龙头股份:600630 -> new_incr_rate:5.61;7.84 | new highest_incr_rate:11.05;12.67 | new score:9.30
+update zs_game set current_price="6.02;13.62", incr_rate="5.61;7.84", highest_price="6.33;14.23", highest_incr_rate="11.05;12.67", score=9.30 where round = 0 and target_stock = "东风汽车:600006;龙头股份:600630"
+保利地产:600048;招商地产:000024
+11.43;27.71|10.38;25.13|-9.19;-9.31|11.40;28.00|-0.26;1.05|-4.43
+sh600048 --- CurrentPrice:10.32 HighestPrice:10.65
+sz000024 --- CurrentPrice:25.01 HighestPrice:25.60
+保利地产:600048;招商地产:000024 -> new_incr_rate:-9.71;-9.74 | new highest_incr_rate:-0.26;1.05 | new score:-4.67
+update zs_game set current_price="10.32;25.01", incr_rate="-9.71;-9.74", highest_price="11.40;28.00", highest_incr_rate="-0.26;1.05", score=-4.67 where round = 0 and target_stock = "保利地产:600048;招商地产:000024"
+重庆港九:600279;长春一东:600148
+14.39;21.32|14.70;20.89|2.15;-2.02|14.95;22.09|3.89;3.61|1.91
+sh600279 --- CurrentPrice:14.73 HighestPrice:15.37
+sh600148 --- CurrentPrice:20.63 HighestPrice:21.22
+重庆港九:600279;长春一东:600148 -> new_incr_rate:2.36;-3.24 | new highest_incr_rate:6.81;3.61 | new score:2.39
+update zs_game set current_price="14.73;20.63", incr_rate="2.36;-3.24", highest_price="15.37;22.09", highest_incr_rate="6.81;3.61", score=2.39 where round = 0 and target_stock = "重庆港九:600279;长春一东:600148"
+--------------------------END-----------------------------
+2015-01-28 15:05:09
+
+
+
+
+2015-01-29 11:35:01
+--------------------------START-----------------------------
+长电科技:600584;华宇软件:300271
+13.68;44.85|13.76;50.70|0.58;13.04|14.67;52.05|7.24;16.05|9.23
+sh600584 --- CurrentPrice:13.90 HighestPrice:14.00
+sz300271 --- CurrentPrice:49.960 HighestPrice:50.300
+长电科技:600584;华宇软件:300271 -> new_incr_rate:1.61;11.39 | new highest_incr_rate:7.24;16.05 | new score:9.08
+update zs_game set current_price="13.90;49.96", incr_rate="1.61;11.39", highest_price="14.67;52.05", highest_incr_rate="7.24;16.05", score=9.08 where round = 0 and target_stock = "长电科技:600584;华宇软件:300271"
+上海建工:600170;南风股份:300004
+9.02;47.98|10.30;48.67|14.19;1.44|10.59;50.10|17.41;4.42|9.37
+sh600170 --- CurrentPrice:10.00 HighestPrice:10.25
+sz300004 --- CurrentPrice:0.000 HighestPrice:0.000
+300004 is suspended today!
+300004 is suspended today!
+上海建工:600170;南风股份:300004 -> new_incr_rate:10.86;1.44 | new highest_incr_rate:17.41;4.42 | new score:8.54
+update zs_game set current_price="10.00;48.67", incr_rate="10.86;1.44", highest_price="10.59;50.10", highest_incr_rate="17.41;4.42", score=8.54 where round = 0 and target_stock = "上海建工:600170;南风股份:300004"
+上海电气:601727;招商地产:000024
+10.28;27.71|10.64;25.01|3.50;-9.74|11.26;28.00|9.53;1.05|1.09
+sh601727 --- CurrentPrice:11.12 HighestPrice:11.13
+sz000024 --- CurrentPrice:25.70 HighestPrice:25.80
+上海电气:601727;招商地产:000024 -> new_incr_rate:8.17;-7.25 | new highest_incr_rate:9.53;1.05 | new score:2.88
+update zs_game set current_price="11.12;25.70", incr_rate="8.17;-7.25", highest_price="11.26;28.00", highest_incr_rate="9.53;1.05", score=2.88 where round = 0 and target_stock = "上海电气:601727;招商地产:000024"
+万丰奥威:002085;招商地产:000024
+32.97;27.71|34.48;25.01|4.58;-9.74|34.85;28.00|5.70;1.05|0.4
+sz002085 --- CurrentPrice:34.47 HighestPrice:35.00
+sz000024 --- CurrentPrice:25.70 HighestPrice:25.80
+万丰奥威:002085;招商地产:000024 -> new_incr_rate:4.55;-7.25 | new highest_incr_rate:6.16;1.05 | new score:1.13
+update zs_game set current_price="34.47;25.70", incr_rate="4.55;-7.25", highest_price="35.00;28.00", highest_incr_rate="6.16;1.05", score=1.13 where round = 0 and target_stock = "万丰奥威:002085;招商地产:000024"
+新黄浦:600638;凤凰股份:600716
+18.56;11.57|18.92;10.80|1.94;-6.66|19.56;11.74|5.39;1.47|0.54
+sh600638 --- CurrentPrice:18.68 HighestPrice:18.99
+sh600716 --- CurrentPrice:10.96 HighestPrice:11.06
+新黄浦:600638;凤凰股份:600716 -> new_incr_rate:0.65;-5.27 | new highest_incr_rate:5.39;1.47 | new score:0.56
+update zs_game set current_price="18.68;10.96", incr_rate="0.65;-5.27", highest_price="19.56;11.74", highest_incr_rate="5.39;1.47", score=0.56 where round = 0 and target_stock = "新黄浦:600638;凤凰股份:600716"
+万科A:000002;TCL集团:000100
+13.92;3.86|13.00;3.89|-6.61;0.78|14.00;4.06|0.57;5.18|-0.02
+sz000002 --- CurrentPrice:13.13 HighestPrice:13.17
+sz000100 --- CurrentPrice:3.82 HighestPrice:3.87
+万科A:000002;TCL集团:000100 -> new_incr_rate:-5.68;-1.04 | new highest_incr_rate:0.57;5.18 | new score:-0.25
+update zs_game set current_price="13.13;3.82", incr_rate="-5.68;-1.04", highest_price="14.00;4.06", highest_incr_rate="0.57;5.18", score=-0.25 where round = 0 and target_stock = "万科A:000002;TCL集团:000100"
+上海建工:600170;泰禾集团:000732
+9.02;18.72|10.30;19.88|14.19;6.20|10.59;21.26|17.41;13.57|12.85
+sh600170 --- CurrentPrice:10.00 HighestPrice:10.25
+sz000732 --- CurrentPrice:19.47 HighestPrice:19.87
+上海建工:600170;泰禾集团:000732 -> new_incr_rate:10.86;4.01 | new highest_incr_rate:17.41;13.57 | new score:11.47
+update zs_game set current_price="10.00;19.47", incr_rate="10.86;4.01", highest_price="10.59;21.26", highest_incr_rate="17.41;13.57", score=11.47 where round = 0 and target_stock = "上海建工:600170;泰禾集团:000732"
+南风股份:300004;泰禾集团:000732
+47.98;18.72|48.67;19.88|1.44;6.20|50.10;21.26|4.42;13.57|6.41
+sz300004 --- CurrentPrice:0.000 HighestPrice:0.000
+300004 is suspended today!
+300004 is suspended today!
+sz000732 --- CurrentPrice:19.47 HighestPrice:19.87
+南风股份:300004;泰禾集团:000732 -> new_incr_rate:1.44;4.01 | new highest_incr_rate:4.42;13.57 | new score:5.86
+update zs_game set current_price="48.67;19.47", incr_rate="1.44;4.01", highest_price="50.10;21.26", highest_incr_rate="4.42;13.57", score=5.86 where round = 0 and target_stock = "南风股份:300004;泰禾集团:000732"
+中粮生化:000930;重庆路桥:600106
+7.49;5.73|7.79;6.24|4.01;8.90|8.09;6.58|8.01;14.83|8.94
+sz000930 --- CurrentPrice:7.75 HighestPrice:7.85
+sh600106 --- CurrentPrice:6.15 HighestPrice:6.18
+中粮生化:000930;重庆路桥:600106 -> new_incr_rate:3.47;7.33 | new highest_incr_rate:8.01;14.83 | new score:8.41
+update zs_game set current_price="7.75;6.15", incr_rate="3.47;7.33", highest_price="8.09;6.58", highest_incr_rate="8.01;14.83", score=8.41 where round = 0 and target_stock = "中粮生化:000930;重庆路桥:600106"
+长电科技:600584;浦东建设:600284
+13.68;11.56|13.76;11.78|0.58;1.90|14.67;12.38|7.24;7.09|4.21
+sh600584 --- CurrentPrice:13.90 HighestPrice:14.00
+sh600284 --- CurrentPrice:11.66 HighestPrice:11.73
+长电科技:600584;浦东建设:600284 -> new_incr_rate:1.61;0.87 | new highest_incr_rate:7.24;7.09 | new score:4.21
+update zs_game set current_price="13.90;11.66", incr_rate="1.61;0.87", highest_price="14.67;12.38", highest_incr_rate="7.24;7.09", score=4.21 where round = 0 and target_stock = "长电科技:600584;浦东建设:600284"
+顺鑫农业:000860;金风科技:002202
+20.86;14.66|20.84;15.17|-0.10;3.48|21.46;15.74|2.88;7.37|3.41
+sz000860 --- CurrentPrice:20.39 HighestPrice:20.89
+sz002202 --- CurrentPrice:14.86 HighestPrice:15.10
+顺鑫农业:000860;金风科技:002202 -> new_incr_rate:-2.25;1.36 | new highest_incr_rate:2.88;7.37 | new score:2.35
+update zs_game set current_price="20.39;14.86", incr_rate="-2.25;1.36", highest_price="21.46;15.74", highest_incr_rate="2.88;7.37", score=2.35 where round = 0 and target_stock = "顺鑫农业:000860;金风科技:002202"
+龙头股份:600630;新希望:000876
+12.63;15.10|13.62;15.94|7.84;5.56|14.23;16.24|12.67;7.55|8.41
+sh600630 --- CurrentPrice:13.69 HighestPrice:13.89
+sz000876 --- CurrentPrice:15.65 HighestPrice:15.86
+龙头股份:600630;新希望:000876 -> new_incr_rate:8.39;3.64 | new highest_incr_rate:12.67;7.55 | new score:8.07
+update zs_game set current_price="13.69;15.65", incr_rate="8.39;3.64", highest_price="14.23;16.24", highest_incr_rate="12.67;7.55", score=8.07 where round = 0 and target_stock = "龙头股份:600630;新希望:000876"
+川润股份:002272;吉峰农机:300022
+6.93;10.29|7.26;|4.76;|7.44;|7.36;|3.03
+sz002272 --- CurrentPrice:7.29 HighestPrice:7.36
+sz300022 --- CurrentPrice:0.000 HighestPrice:0.000
+300022 is suspended today!
+300022 is suspended today!
+川润股份:002272;吉峰农机:300022 -> new_incr_rate:5.19; | new highest_incr_rate:7.36; | new score:3.14
+update zs_game set current_price="7.29;", incr_rate="5.19;", highest_price="7.44;", highest_incr_rate="7.36;", score=3.14 where round = 0 and target_stock = "川润股份:002272;吉峰农机:300022"
+旋极信息:300324;东方财富:300059
+49.49;40.15|48.94;39.90|-1.11;-0.62|51.65;42.68|4.36;6.30|2.24
+sz300324 --- CurrentPrice:46.850 HighestPrice:48.390
+sz300059 --- CurrentPrice:40.210 HighestPrice:40.710
+旋极信息:300324;东方财富:300059 -> new_incr_rate:-5.33;0.15 | new highest_incr_rate:4.36;6.30 | new score:1.37
+update zs_game set current_price="46.85;40.21", incr_rate="-5.33;0.15", highest_price="51.65;42.68", highest_incr_rate="4.36;6.30", score=1.37 where round = 0 and target_stock = "旋极信息:300324;东方财富:300059"
+东风汽车:600006;龙头股份:600630
+5.70;12.63|6.02;13.62|5.61;7.84|6.33;14.23|11.05;12.67|9.3
+sh600006 --- CurrentPrice:5.97 HighestPrice:6.01
+sh600630 --- CurrentPrice:13.69 HighestPrice:13.89
+东风汽车:600006;龙头股份:600630 -> new_incr_rate:4.74;8.39 | new highest_incr_rate:11.05;12.67 | new score:9.22
+update zs_game set current_price="5.97;13.69", incr_rate="4.74;8.39", highest_price="6.33;14.23", highest_incr_rate="11.05;12.67", score=9.22 where round = 0 and target_stock = "东风汽车:600006;龙头股份:600630"
+保利地产:600048;招商地产:000024
+11.43;27.71|10.32;25.01|-9.71;-9.74|11.40;28.00|-0.26;1.05|-4.67
+sh600048 --- CurrentPrice:10.44 HighestPrice:10.50
+sz000024 --- CurrentPrice:25.70 HighestPrice:25.80
+保利地产:600048;招商地产:000024 -> new_incr_rate:-8.66;-7.25 | new highest_incr_rate:-0.26;1.05 | new score:-3.78
+update zs_game set current_price="10.44;25.70", incr_rate="-8.66;-7.25", highest_price="11.40;28.00", highest_incr_rate="-0.26;1.05", score=-3.78 where round = 0 and target_stock = "保利地产:600048;招商地产:000024"
+重庆港九:600279;长春一东:600148
+14.39;21.32|14.73;20.63|2.36;-3.24|15.37;22.09|6.81;3.61|2.39
+sh600279 --- CurrentPrice:14.24 HighestPrice:14.59
+sh600148 --- CurrentPrice:20.99 HighestPrice:21.15
+重庆港九:600279;长春一东:600148 -> new_incr_rate:-1.04;-1.55 | new highest_incr_rate:6.81;3.61 | new score:1.96
+update zs_game set current_price="14.24;20.99", incr_rate="-1.04;-1.55", highest_price="15.37;22.09", highest_incr_rate="6.81;3.61", score=1.96 where round = 0 and target_stock = "重庆港九:600279;长春一东:600148"
+--------------------------END-----------------------------
+2015-01-29 11:35:07
+
+
+
+
+2015-01-29 15:05:01
+--------------------------START-----------------------------
+长电科技:600584;华宇软件:300271
+13.68;44.85|13.90;49.96|1.61;11.39|14.67;52.05|7.24;16.05|9.08
+sh600584 --- CurrentPrice:13.82 HighestPrice:14.05
+sz300271 --- CurrentPrice:49.800 HighestPrice:50.390
+长电科技:600584;华宇软件:300271 -> new_incr_rate:1.02;11.04 | new highest_incr_rate:7.24;16.05 | new score:8.84
+update zs_game set current_price="13.82;49.80", incr_rate="1.02;11.04", highest_price="14.67;52.05", highest_incr_rate="7.24;16.05", score=8.84 where round = 0 and target_stock = "长电科技:600584;华宇软件:300271"
+上海建工:600170;南风股份:300004
+9.02;47.98|10.00;48.67|10.86;1.44|10.59;50.10|17.41;4.42|8.54
+sh600170 --- CurrentPrice:9.76 HighestPrice:10.25
+sz300004 --- CurrentPrice:0.000 HighestPrice:0.000
+300004 is suspended today!
+300004 is suspended today!
+上海建工:600170;南风股份:300004 -> new_incr_rate:8.20;1.44 | new highest_incr_rate:17.41;4.42 | new score:7.87
+update zs_game set current_price="9.76;48.67", incr_rate="8.20;1.44", highest_price="10.59;50.10", highest_incr_rate="17.41;4.42", score=7.87 where round = 0 and target_stock = "上海建工:600170;南风股份:300004"
+上海电气:601727;招商地产:000024
+10.28;27.71|11.12;25.70|8.17;-7.25|11.26;28.00|9.53;1.05|2.88
+sh601727 --- CurrentPrice:11.45 HighestPrice:11.66
+sz000024 --- CurrentPrice:25.34 HighestPrice:25.85
+上海电气:601727;招商地产:000024 -> new_incr_rate:11.38;-8.55 | new highest_incr_rate:13.42;1.05 | new score:4.33
+update zs_game set current_price="11.45;25.34", incr_rate="11.38;-8.55", highest_price="11.66;28.00", highest_incr_rate="13.42;1.05", score=4.33 where round = 0 and target_stock = "上海电气:601727;招商地产:000024"
+万丰奥威:002085;招商地产:000024
+32.97;27.71|34.47;25.70|4.55;-7.25|35.00;28.00|6.16;1.05|1.13
+sz002085 --- CurrentPrice:35.48 HighestPrice:35.86
+sz000024 --- CurrentPrice:25.34 HighestPrice:25.85
+万丰奥威:002085;招商地产:000024 -> new_incr_rate:7.61;-8.55 | new highest_incr_rate:8.77;1.05 | new score:2.22
+update zs_game set current_price="35.48;25.34", incr_rate="7.61;-8.55", highest_price="35.86;28.00", highest_incr_rate="8.77;1.05", score=2.22 where round = 0 and target_stock = "万丰奥威:002085;招商地产:000024"
+新黄浦:600638;凤凰股份:600716
+18.56;11.57|18.68;10.96|0.65;-5.27|19.56;11.74|5.39;1.47|0.56
+sh600638 --- CurrentPrice:18.19 HighestPrice:18.99
+sh600716 --- CurrentPrice:10.83 HighestPrice:11.06
+新黄浦:600638;凤凰股份:600716 -> new_incr_rate:-1.99;-6.40 | new highest_incr_rate:5.39;1.47 | new score:-0.39
+update zs_game set current_price="18.19;10.83", incr_rate="-1.99;-6.40", highest_price="19.56;11.74", highest_incr_rate="5.39;1.47", score=-0.39 where round = 0 and target_stock = "新黄浦:600638;凤凰股份:600716"
+万科A:000002;TCL集团:000100
+13.92;3.86|13.13;3.82|-5.68;-1.04|14.00;4.06|0.57;5.18|-0.25
+sz000002 --- CurrentPrice:13.01 HighestPrice:13.17
+sz000100 --- CurrentPrice:3.82 HighestPrice:3.87
+万科A:000002;TCL集团:000100 -> new_incr_rate:-6.54;-1.04 | new highest_incr_rate:0.57;5.18 | new score:-0.46
+update zs_game set current_price="13.01;3.82", incr_rate="-6.54;-1.04", highest_price="14.00;4.06", highest_incr_rate="0.57;5.18", score=-0.46 where round = 0 and target_stock = "万科A:000002;TCL集团:000100"
+上海建工:600170;泰禾集团:000732
+9.02;18.72|10.00;19.47|10.86;4.01|10.59;21.26|17.41;13.57|11.47
+sh600170 --- CurrentPrice:9.76 HighestPrice:10.25
+sz000732 --- CurrentPrice:19.41 HighestPrice:19.87
+上海建工:600170;泰禾集团:000732 -> new_incr_rate:8.20;3.69 | new highest_incr_rate:17.41;13.57 | new score:10.72
+update zs_game set current_price="9.76;19.41", incr_rate="8.20;3.69", highest_price="10.59;21.26", highest_incr_rate="17.41;13.57", score=10.72 where round = 0 and target_stock = "上海建工:600170;泰禾集团:000732"
+南风股份:300004;泰禾集团:000732
+47.98;18.72|48.67;19.47|1.44;4.01|50.10;21.26|4.42;13.57|5.86
+sz300004 --- CurrentPrice:0.000 HighestPrice:0.000
+300004 is suspended today!
+300004 is suspended today!
+sz000732 --- CurrentPrice:19.41 HighestPrice:19.87
+南风股份:300004;泰禾集团:000732 -> new_incr_rate:1.44;3.69 | new highest_incr_rate:4.42;13.57 | new score:5.78
+update zs_game set current_price="48.67;19.41", incr_rate="1.44;3.69", highest_price="50.10;21.26", highest_incr_rate="4.42;13.57", score=5.78 where round = 0 and target_stock = "南风股份:300004;泰禾集团:000732"
+中粮生化:000930;重庆路桥:600106
+7.49;5.73|7.75;6.15|3.47;7.33|8.09;6.58|8.01;14.83|8.41
+sz000930 --- CurrentPrice:7.71 HighestPrice:7.85
+sh600106 --- CurrentPrice:6.02 HighestPrice:6.18
+中粮生化:000930;重庆路桥:600106 -> new_incr_rate:2.94;5.06 | new highest_incr_rate:8.01;14.83 | new score:7.72
+update zs_game set current_price="7.71;6.02", incr_rate="2.94;5.06", highest_price="8.09;6.58", highest_incr_rate="8.01;14.83", score=7.72 where round = 0 and target_stock = "中粮生化:000930;重庆路桥:600106"
+长电科技:600584;浦东建设:600284
+13.68;11.56|13.90;11.66|1.61;0.87|14.67;12.38|7.24;7.09|4.21
+sh600584 --- CurrentPrice:13.82 HighestPrice:14.05
+sh600284 --- CurrentPrice:11.61 HighestPrice:11.73
+长电科技:600584;浦东建设:600284 -> new_incr_rate:1.02;0.43 | new highest_incr_rate:7.24;7.09 | new score:3.95
+update zs_game set current_price="13.82;11.61", incr_rate="1.02;0.43", highest_price="14.67;12.38", highest_incr_rate="7.24;7.09", score=3.95 where round = 0 and target_stock = "长电科技:600584;浦东建设:600284"
+顺鑫农业:000860;金风科技:002202
+20.86;14.66|20.39;14.86|-2.25;1.36|21.46;15.74|2.88;7.37|2.35
+sz000860 --- CurrentPrice:20.63 HighestPrice:20.89
+sz002202 --- CurrentPrice:14.79 HighestPrice:15.10
+顺鑫农业:000860;金风科技:002202 -> new_incr_rate:-1.10;0.89 | new highest_incr_rate:2.88;7.37 | new score:2.51
+update zs_game set current_price="20.63;14.79", incr_rate="-1.10;0.89", highest_price="21.46;15.74", highest_incr_rate="2.88;7.37", score=2.51 where round = 0 and target_stock = "顺鑫农业:000860;金风科技:002202"
+龙头股份:600630;新希望:000876
+12.63;15.10|13.69;15.65|8.39;3.64|14.23;16.24|12.67;7.55|8.07
+sh600630 --- CurrentPrice:13.57 HighestPrice:13.89
+sz000876 --- CurrentPrice:15.43 HighestPrice:15.86
+龙头股份:600630;新希望:000876 -> new_incr_rate:7.44;2.19 | new highest_incr_rate:12.67;7.55 | new score:7.47
+update zs_game set current_price="13.57;15.43", incr_rate="7.44;2.19", highest_price="14.23;16.24", highest_incr_rate="12.67;7.55", score=7.47 where round = 0 and target_stock = "龙头股份:600630;新希望:000876"
+川润股份:002272;吉峰农机:300022
+6.93;10.29|7.29;|5.19;|7.44;|7.36;|3.14
+sz002272 --- CurrentPrice:7.27 HighestPrice:7.36
+sz300022 --- CurrentPrice:0.000 HighestPrice:0.000
+300022 is suspended today!
+300022 is suspended today!
+川润股份:002272;吉峰农机:300022 -> new_incr_rate:4.91; | new highest_incr_rate:7.36; | new score:3.07
+update zs_game set current_price="7.27;", incr_rate="4.91;", highest_price="7.44;", highest_incr_rate="7.36;", score=3.07 where round = 0 and target_stock = "川润股份:002272;吉峰农机:300022"
+旋极信息:300324;东方财富:300059
+49.49;40.15|46.85;40.21|-5.33;0.15|51.65;42.68|4.36;6.30|1.37
+sz300324 --- CurrentPrice:46.550 HighestPrice:48.390
+sz300059 --- CurrentPrice:40.020 HighestPrice:40.710
+旋极信息:300324;东方财富:300059 -> new_incr_rate:-5.94;-0.32 | new highest_incr_rate:4.36;6.30 | new score:1.10
+update zs_game set current_price="46.55;40.02", incr_rate="-5.94;-0.32", highest_price="51.65;42.68", highest_incr_rate="4.36;6.30", score=1.10 where round = 0 and target_stock = "旋极信息:300324;东方财富:300059"
+东风汽车:600006;龙头股份:600630
+5.70;12.63|5.97;13.69|4.74;8.39|6.33;14.23|11.05;12.67|9.22
+sh600006 --- CurrentPrice:5.99 HighestPrice:6.08
+sh600630 --- CurrentPrice:13.57 HighestPrice:13.89
+东风汽车:600006;龙头股份:600630 -> new_incr_rate:5.09;7.44 | new highest_incr_rate:11.05;12.67 | new score:9.07
+update zs_game set current_price="5.99;13.57", incr_rate="5.09;7.44", highest_price="6.33;14.23", highest_incr_rate="11.05;12.67", score=9.07 where round = 0 and target_stock = "东风汽车:600006;龙头股份:600630"
+保利地产:600048;招商地产:000024
+11.43;27.71|10.44;25.70|-8.66;-7.25|11.40;28.00|-0.26;1.05|-3.78
+sh600048 --- CurrentPrice:10.29 HighestPrice:10.50
+sz000024 --- CurrentPrice:25.34 HighestPrice:25.85
+保利地产:600048;招商地产:000024 -> new_incr_rate:-9.97;-8.55 | new highest_incr_rate:-0.26;1.05 | new score:-4.44
+update zs_game set current_price="10.29;25.34", incr_rate="-9.97;-8.55", highest_price="11.40;28.00", highest_incr_rate="-0.26;1.05", score=-4.44 where round = 0 and target_stock = "保利地产:600048;招商地产:000024"
+重庆港九:600279;长春一东:600148
+14.39;21.32|14.24;20.99|-1.04;-1.55|15.37;22.09|6.81;3.61|1.96
+sh600279 --- CurrentPrice:14.24 HighestPrice:14.59
+sh600148 --- CurrentPrice:20.89 HighestPrice:21.15
+重庆港九:600279;长春一东:600148 -> new_incr_rate:-1.04;-2.02 | new highest_incr_rate:6.81;3.61 | new score:1.85
+update zs_game set current_price="14.24;20.89", incr_rate="-1.04;-2.02", highest_price="15.37;22.09", highest_incr_rate="6.81;3.61", score=1.85 where round = 0 and target_stock = "重庆港九:600279;长春一东:600148"
+--------------------------END-----------------------------
+2015-01-29 15:05:09
+
+
+
+
+2015-01-30 11:35:01
+--------------------------START-----------------------------
+长电科技:600584;华宇软件:300271
+13.68;44.85|13.82;49.80|1.02;11.04|14.67;52.05|7.24;16.05|8.84
+sh600584 --- CurrentPrice:14.14 HighestPrice:14.35
+sz300271 --- CurrentPrice:48.600 HighestPrice:50.600
+长电科技:600584;华宇软件:300271 -> new_incr_rate:3.36;8.36 | new highest_incr_rate:7.24;16.05 | new score:8.76
+update zs_game set current_price="14.14;48.60", incr_rate="3.36;8.36", highest_price="14.67;52.05", highest_incr_rate="7.24;16.05", score=8.76 where round = 0 and target_stock = "长电科技:600584;华宇软件:300271"
+上海建工:600170;南风股份:300004
+9.02;47.98|9.76;48.67|8.20;1.44|10.59;50.10|17.41;4.42|7.87
+sh600170 --- CurrentPrice:9.40 HighestPrice:9.87
+sz300004 --- CurrentPrice:0.000 HighestPrice:0.000
+300004 is suspended today!
+300004 is suspended today!
+上海建工:600170;南风股份:300004 -> new_incr_rate:4.21;1.44 | new highest_incr_rate:17.41;4.42 | new score:6.87
+update zs_game set current_price="9.40;48.67", incr_rate="4.21;1.44", highest_price="10.59;50.10", highest_incr_rate="17.41;4.42", score=6.87 where round = 0 and target_stock = "上海建工:600170;南风股份:300004"
+上海电气:601727;招商地产:000024
+10.28;27.71|11.45;25.34|11.38;-8.55|11.66;28.00|13.42;1.05|4.33
+sh601727 --- CurrentPrice:11.15 HighestPrice:11.47
+sz000024 --- CurrentPrice:25.85 HighestPrice:26.16
+上海电气:601727;招商地产:000024 -> new_incr_rate:8.46;-6.71 | new highest_incr_rate:13.42;1.05 | new score:4.06
+update zs_game set current_price="11.15;25.85", incr_rate="8.46;-6.71", highest_price="11.66;28.00", highest_incr_rate="13.42;1.05", score=4.06 where round = 0 and target_stock = "上海电气:601727;招商地产:000024"
+万丰奥威:002085;招商地产:000024
+32.97;27.71|35.48;25.34|7.61;-8.55|35.86;28.00|8.77;1.05|2.22
+sz002085 --- CurrentPrice:35.90 HighestPrice:36.79
+sz000024 --- CurrentPrice:25.85 HighestPrice:26.16
+万丰奥威:002085;招商地产:000024 -> new_incr_rate:8.89;-6.71 | new highest_incr_rate:11.59;1.05 | new score:3.71
+update zs_game set current_price="35.90;25.85", incr_rate="8.89;-6.71", highest_price="36.79;28.00", highest_incr_rate="11.59;1.05", score=3.71 where round = 0 and target_stock = "万丰奥威:002085;招商地产:000024"
+新黄浦:600638;凤凰股份:600716
+18.56;11.57|18.19;10.83|-1.99;-6.40|19.56;11.74|5.39;1.47|-0.39
+sh600638 --- CurrentPrice:17.98 HighestPrice:18.48
+sh600716 --- CurrentPrice:11.01 HighestPrice:11.10
+新黄浦:600638;凤凰股份:600716 -> new_incr_rate:-3.12;-4.84 | new highest_incr_rate:5.39;1.47 | new score:-0.28
+update zs_game set current_price="17.98;11.01", incr_rate="-3.12;-4.84", highest_price="19.56;11.74", highest_incr_rate="5.39;1.47", score=-0.28 where round = 0 and target_stock = "新黄浦:600638;凤凰股份:600716"
+万科A:000002;TCL集团:000100
+13.92;3.86|13.01;3.82|-6.54;-1.04|14.00;4.06|0.57;5.18|-0.46
+sz000002 --- CurrentPrice:12.95 HighestPrice:13.21
+sz000100 --- CurrentPrice:3.93 HighestPrice:3.98
+万科A:000002;TCL集团:000100 -> new_incr_rate:-6.97;1.81 | new highest_incr_rate:0.57;5.18 | new score:0.15
+update zs_game set current_price="12.95;3.93", incr_rate="-6.97;1.81", highest_price="14.00;4.06", highest_incr_rate="0.57;5.18", score=0.15 where round = 0 and target_stock = "万科A:000002;TCL集团:000100"
+上海建工:600170;泰禾集团:000732
+9.02;18.72|9.76;19.41|8.20;3.69|10.59;21.26|17.41;13.57|10.72
+sh600170 --- CurrentPrice:9.40 HighestPrice:9.87
+sz000732 --- CurrentPrice:20.61 HighestPrice:20.84
+上海建工:600170;泰禾集团:000732 -> new_incr_rate:4.21;10.10 | new highest_incr_rate:17.41;13.57 | new score:11.33
+update zs_game set current_price="9.40;20.61", incr_rate="4.21;10.10", highest_price="10.59;21.26", highest_incr_rate="17.41;13.57", score=11.33 where round = 0 and target_stock = "上海建工:600170;泰禾集团:000732"
+南风股份:300004;泰禾集团:000732
+47.98;18.72|48.67;19.41|1.44;3.69|50.10;21.26|4.42;13.57|5.78
+sz300004 --- CurrentPrice:0.000 HighestPrice:0.000
+300004 is suspended today!
+300004 is suspended today!
+sz000732 --- CurrentPrice:20.61 HighestPrice:20.84
+南风股份:300004;泰禾集团:000732 -> new_incr_rate:1.44;10.10 | new highest_incr_rate:4.42;13.57 | new score:7.39
+update zs_game set current_price="48.67;20.61", incr_rate="1.44;10.10", highest_price="50.10;21.26", highest_incr_rate="4.42;13.57", score=7.39 where round = 0 and target_stock = "南风股份:300004;泰禾集团:000732"
+中粮生化:000930;重庆路桥:600106
+7.49;5.73|7.71;6.02|2.94;5.06|8.09;6.58|8.01;14.83|7.72
+sz000930 --- CurrentPrice:7.61 HighestPrice:7.83
+sh600106 --- CurrentPrice:6.08 HighestPrice:6.20
+中粮生化:000930;重庆路桥:600106 -> new_incr_rate:1.60;6.11 | new highest_incr_rate:8.01;14.83 | new score:7.64
+update zs_game set current_price="7.61;6.08", incr_rate="1.60;6.11", highest_price="8.09;6.58", highest_incr_rate="8.01;14.83", score=7.64 where round = 0 and target_stock = "中粮生化:000930;重庆路桥:600106"
+长电科技:600584;浦东建设:600284
+13.68;11.56|13.82;11.61|1.02;0.43|14.67;12.38|7.24;7.09|3.95
+sh600584 --- CurrentPrice:14.14 HighestPrice:14.35
+sh600284 --- CurrentPrice:11.71 HighestPrice:11.82
+长电科技:600584;浦东建设:600284 -> new_incr_rate:3.36;1.30 | new highest_incr_rate:7.24;7.09 | new score:4.75
+update zs_game set current_price="14.14;11.71", incr_rate="3.36;1.30", highest_price="14.67;12.38", highest_incr_rate="7.24;7.09", score=4.75 where round = 0 and target_stock = "长电科技:600584;浦东建设:600284"
+顺鑫农业:000860;金风科技:002202
+20.86;14.66|20.63;14.79|-1.10;0.89|21.46;15.74|2.88;7.37|2.51
+sz000860 --- CurrentPrice:20.40 HighestPrice:20.94
+sz002202 --- CurrentPrice:14.71 HighestPrice:15.03
+顺鑫农业:000860;金风科技:002202 -> new_incr_rate:-2.21;0.34 | new highest_incr_rate:2.88;7.37 | new score:2.10
+update zs_game set current_price="20.40;14.71", incr_rate="-2.21;0.34", highest_price="21.46;15.74", highest_incr_rate="2.88;7.37", score=2.10 where round = 0 and target_stock = "顺鑫农业:000860;金风科技:002202"
+龙头股份:600630;新希望:000876
+12.63;15.10|13.57;15.43|7.44;2.19|14.23;16.24|12.67;7.55|7.47
+sh600630 --- CurrentPrice:13.30 HighestPrice:13.74
+sz000876 --- CurrentPrice:15.33 HighestPrice:15.63
+龙头股份:600630;新希望:000876 -> new_incr_rate:5.30;1.52 | new highest_incr_rate:12.67;7.55 | new score:6.77
+update zs_game set current_price="13.30;15.33", incr_rate="5.30;1.52", highest_price="14.23;16.24", highest_incr_rate="12.67;7.55", score=6.77 where round = 0 and target_stock = "龙头股份:600630;新希望:000876"
+川润股份:002272;吉峰农机:300022
+6.93;10.29|7.27;|4.91;|7.44;|7.36;|3.07
+sz002272 --- CurrentPrice:7.11 HighestPrice:7.33
+sz300022 --- CurrentPrice:0.000 HighestPrice:0.000
+300022 is suspended today!
+300022 is suspended today!
+川润股份:002272;吉峰农机:300022 -> new_incr_rate:2.60; | new highest_incr_rate:7.36; | new score:2.49
+update zs_game set current_price="7.11;", incr_rate="2.60;", highest_price="7.44;", highest_incr_rate="7.36;", score=2.49 where round = 0 and target_stock = "川润股份:002272;吉峰农机:300022"
+旋极信息:300324;东方财富:300059
+49.49;40.15|46.55;40.02|-5.94;-0.32|51.65;42.68|4.36;6.30|1.1
+sz300324 --- CurrentPrice:45.350 HighestPrice:47.400
+sz300059 --- CurrentPrice:38.540 HighestPrice:40.580
+旋极信息:300324;东方财富:300059 -> new_incr_rate:-8.37;-4.01 | new highest_incr_rate:4.36;6.30 | new score:-0.43
+update zs_game set current_price="45.35;38.54", incr_rate="-8.37;-4.01", highest_price="51.65;42.68", highest_incr_rate="4.36;6.30", score=-0.43 where round = 0 and target_stock = "旋极信息:300324;东方财富:300059"
+东风汽车:600006;龙头股份:600630
+5.70;12.63|5.99;13.57|5.09;7.44|6.33;14.23|11.05;12.67|9.07
+sh600006 --- CurrentPrice:5.89 HighestPrice:6.05
+sh600630 --- CurrentPrice:13.30 HighestPrice:13.74
+东风汽车:600006;龙头股份:600630 -> new_incr_rate:3.33;5.30 | new highest_incr_rate:11.05;12.67 | new score:8.09
+update zs_game set current_price="5.89;13.30", incr_rate="3.33;5.30", highest_price="6.33;14.23", highest_incr_rate="11.05;12.67", score=8.09 where round = 0 and target_stock = "东风汽车:600006;龙头股份:600630"
+保利地产:600048;招商地产:000024
+11.43;27.71|10.29;25.34|-9.97;-8.55|11.40;28.00|-0.26;1.05|-4.44
+sh600048 --- CurrentPrice:10.43 HighestPrice:10.51
+sz000024 --- CurrentPrice:25.85 HighestPrice:26.16
+保利地产:600048;招商地产:000024 -> new_incr_rate:-8.75;-6.71 | new highest_incr_rate:-0.26;1.05 | new score:-3.67
+update zs_game set current_price="10.43;25.85", incr_rate="-8.75;-6.71", highest_price="11.40;28.00", highest_incr_rate="-0.26;1.05", score=-3.67 where round = 0 and target_stock = "保利地产:600048;招商地产:000024"
+重庆港九:600279;长春一东:600148
+14.39;21.32|14.24;20.89|-1.04;-2.02|15.37;22.09|6.81;3.61|1.85
+sh600279 --- CurrentPrice:14.67 HighestPrice:14.93
+sh600148 --- CurrentPrice:20.99 HighestPrice:21.52
+重庆港九:600279;长春一东:600148 -> new_incr_rate:1.95;-1.55 | new highest_incr_rate:6.81;3.61 | new score:2.71
+update zs_game set current_price="14.67;20.99", incr_rate="1.95;-1.55", highest_price="15.37;22.09", highest_incr_rate="6.81;3.61", score=2.71 where round = 0 and target_stock = "重庆港九:600279;长春一东:600148"
+--------------------------END-----------------------------
+2015-01-30 11:35:03
+
+
+
+
+2015-01-30 15:05:01
+--------------------------START-----------------------------
+长电科技:600584;华宇软件:300271
+13.68;44.85|14.14;48.60|3.36;8.36|14.67;52.05|7.24;16.05|8.76
+sh600584 --- CurrentPrice:13.97 HighestPrice:14.35
+sz300271 --- CurrentPrice:48.300 HighestPrice:50.600
+长电科技:600584;华宇软件:300271 -> new_incr_rate:2.12;7.69 | new highest_incr_rate:7.24;16.05 | new score:8.28
+update zs_game set current_price="13.97;48.30", incr_rate="2.12;7.69", highest_price="14.67;52.05", highest_incr_rate="7.24;16.05", score=8.28 where round = 0 and target_stock = "长电科技:600584;华宇软件:300271"
+上海建工:600170;南风股份:300004
+9.02;47.98|9.40;48.67|4.21;1.44|10.59;50.10|17.41;4.42|6.87
+sh600170 --- CurrentPrice:9.36 HighestPrice:9.87
+sz300004 --- CurrentPrice:0.000 HighestPrice:0.000
+300004 is suspended today!
+300004 is suspended today!
+上海建工:600170;南风股份:300004 -> new_incr_rate:3.77;1.44 | new highest_incr_rate:17.41;4.42 | new score:6.76
+update zs_game set current_price="9.36;48.67", incr_rate="3.77;1.44", highest_price="10.59;50.10", highest_incr_rate="17.41;4.42", score=6.76 where round = 0 and target_stock = "上海建工:600170;南风股份:300004"
+上海电气:601727;招商地产:000024
+10.28;27.71|11.15;25.85|8.46;-6.71|11.66;28.00|13.42;1.05|4.06
+sh601727 --- CurrentPrice:10.93 HighestPrice:11.47
+sz000024 --- CurrentPrice:25.81 HighestPrice:26.80
+上海电气:601727;招商地产:000024 -> new_incr_rate:6.32;-6.86 | new highest_incr_rate:13.42;1.05 | new score:3.48
+update zs_game set current_price="10.93;25.81", incr_rate="6.32;-6.86", highest_price="11.66;28.00", highest_incr_rate="13.42;1.05", score=3.48 where round = 0 and target_stock = "上海电气:601727;招商地产:000024"
+万丰奥威:002085;招商地产:000024
+32.97;27.71|35.90;25.85|8.89;-6.71|36.79;28.00|11.59;1.05|3.71
+sz002085 --- CurrentPrice:35.62 HighestPrice:36.79
+sz000024 --- CurrentPrice:25.81 HighestPrice:26.80
+万丰奥威:002085;招商地产:000024 -> new_incr_rate:8.04;-6.86 | new highest_incr_rate:11.59;1.05 | new score:3.46
+update zs_game set current_price="35.62;25.81", incr_rate="8.04;-6.86", highest_price="36.79;28.00", highest_incr_rate="11.59;1.05", score=3.46 where round = 0 and target_stock = "万丰奥威:002085;招商地产:000024"
+新黄浦:600638;凤凰股份:600716
+18.56;11.57|17.98;11.01|-3.12;-4.84|19.56;11.74|5.39;1.47|-0.28
+sh600638 --- CurrentPrice:17.97 HighestPrice:18.48
+sh600716 --- CurrentPrice:10.85 HighestPrice:11.27
+新黄浦:600638;凤凰股份:600716 -> new_incr_rate:-3.18;-6.22 | new highest_incr_rate:5.39;1.47 | new score:-0.64
+update zs_game set current_price="17.97;10.85", incr_rate="-3.18;-6.22", highest_price="19.56;11.74", highest_incr_rate="5.39;1.47", score=-0.64 where round = 0 and target_stock = "新黄浦:600638;凤凰股份:600716"
+万科A:000002;TCL集团:000100
+13.92;3.86|12.95;3.93|-6.97;1.81|14.00;4.06|0.57;5.18|0.15
+sz000002 --- CurrentPrice:13.12 HighestPrice:13.49
+sz000100 --- CurrentPrice:3.89 HighestPrice:3.98
+万科A:000002;TCL集团:000100 -> new_incr_rate:-5.75;0.78 | new highest_incr_rate:0.57;5.18 | new score:0.20
+update zs_game set current_price="13.12;3.89", incr_rate="-5.75;0.78", highest_price="14.00;4.06", highest_incr_rate="0.57;5.18", score=0.20 where round = 0 and target_stock = "万科A:000002;TCL集团:000100"
+上海建工:600170;泰禾集团:000732
+9.02;18.72|9.40;20.61|4.21;10.10|10.59;21.26|17.41;13.57|11.33
+sh600170 --- CurrentPrice:9.36 HighestPrice:9.87
+sz000732 --- CurrentPrice:21.35 HighestPrice:21.35
+上海建工:600170;泰禾集团:000732 -> new_incr_rate:3.77;14.05 | new highest_incr_rate:17.41;14.05 | new score:12.32
+update zs_game set current_price="9.36;21.35", incr_rate="3.77;14.05", highest_price="10.59;21.35", highest_incr_rate="17.41;14.05", score=12.32 where round = 0 and target_stock = "上海建工:600170;泰禾集团:000732"
+南风股份:300004;泰禾集团:000732
+47.98;18.72|48.67;20.61|1.44;10.10|50.10;21.26|4.42;13.57|7.39
+sz300004 --- CurrentPrice:0.000 HighestPrice:0.000
+300004 is suspended today!
+300004 is suspended today!
+sz000732 --- CurrentPrice:21.35 HighestPrice:21.35
+南风股份:300004;泰禾集团:000732 -> new_incr_rate:1.44;14.05 | new highest_incr_rate:4.42;14.05 | new score:8.49
+update zs_game set current_price="48.67;21.35", incr_rate="1.44;14.05", highest_price="50.10;21.35", highest_incr_rate="4.42;14.05", score=8.49 where round = 0 and target_stock = "南风股份:300004;泰禾集团:000732"
+中粮生化:000930;重庆路桥:600106
+7.49;5.73|7.61;6.08|1.60;6.11|8.09;6.58|8.01;14.83|7.64
+sz000930 --- CurrentPrice:7.52 HighestPrice:7.83
+sh600106 --- CurrentPrice:6.06 HighestPrice:6.20
+中粮生化:000930;重庆路桥:600106 -> new_incr_rate:0.40;5.76 | new highest_incr_rate:8.01;14.83 | new score:7.26
+update zs_game set current_price="7.52;6.06", incr_rate="0.40;5.76", highest_price="8.09;6.58", highest_incr_rate="8.01;14.83", score=7.26 where round = 0 and target_stock = "中粮生化:000930;重庆路桥:600106"
+长电科技:600584;浦东建设:600284
+13.68;11.56|14.14;11.71|3.36;1.30|14.67;12.38|7.24;7.09|4.75
+sh600584 --- CurrentPrice:13.97 HighestPrice:14.35
+sh600284 --- CurrentPrice:11.56 HighestPrice:11.82
+长电科技:600584;浦东建设:600284 -> new_incr_rate:2.12;0.00 | new highest_incr_rate:7.24;7.09 | new score:4.12
+update zs_game set current_price="13.97;11.56", incr_rate="2.12;0.00", highest_price="14.67;12.38", highest_incr_rate="7.24;7.09", score=4.12 where round = 0 and target_stock = "长电科技:600584;浦东建设:600284"
+顺鑫农业:000860;金风科技:002202
+20.86;14.66|20.40;14.71|-2.21;0.34|21.46;15.74|2.88;7.37|2.1
+sz000860 --- CurrentPrice:20.25 HighestPrice:20.94
+sz002202 --- CurrentPrice:14.67 HighestPrice:15.03
+顺鑫农业:000860;金风科技:002202 -> new_incr_rate:-2.92;0.07 | new highest_incr_rate:2.88;7.37 | new score:1.85
+update zs_game set current_price="20.25;14.67", incr_rate="-2.92;0.07", highest_price="21.46;15.74", highest_incr_rate="2.88;7.37", score=1.85 where round = 0 and target_stock = "顺鑫农业:000860;金风科技:002202"
+龙头股份:600630;新希望:000876
+12.63;15.10|13.30;15.33|5.30;1.52|14.23;16.24|12.67;7.55|6.77
+sh600630 --- CurrentPrice:13.06 HighestPrice:13.74
+sz000876 --- CurrentPrice:15.25 HighestPrice:15.63
+龙头股份:600630;新希望:000876 -> new_incr_rate:3.40;0.99 | new highest_incr_rate:12.67;7.55 | new score:6.16
+update zs_game set current_price="13.06;15.25", incr_rate="3.40;0.99", highest_price="14.23;16.24", highest_incr_rate="12.67;7.55", score=6.16 where round = 0 and target_stock = "龙头股份:600630;新希望:000876"
+川润股份:002272;吉峰农机:300022
+6.93;10.29|7.11;|2.60;|7.44;|7.36;|2.49
+sz002272 --- CurrentPrice:7.07 HighestPrice:7.33
+sz300022 --- CurrentPrice:0.000 HighestPrice:0.000
+300022 is suspended today!
+300022 is suspended today!
+川润股份:002272;吉峰农机:300022 -> new_incr_rate:2.02; | new highest_incr_rate:7.36; | new score:2.35
+update zs_game set current_price="7.07;", incr_rate="2.02;", highest_price="7.44;", highest_incr_rate="7.36;", score=2.35 where round = 0 and target_stock = "川润股份:002272;吉峰农机:300022"
+旋极信息:300324;东方财富:300059
+49.49;40.15|45.35;38.54|-8.37;-4.01|51.65;42.68|4.36;6.30|-0.43
+sz300324 --- CurrentPrice:44.700 HighestPrice:47.400
+sz300059 --- CurrentPrice:38.510 HighestPrice:40.580
+旋极信息:300324;东方财富:300059 -> new_incr_rate:-9.68;-4.08 | new highest_incr_rate:4.36;6.30 | new score:-0.78
+update zs_game set current_price="44.70;38.51", incr_rate="-9.68;-4.08", highest_price="51.65;42.68", highest_incr_rate="4.36;6.30", score=-0.78 where round = 0 and target_stock = "旋极信息:300324;东方财富:300059"
+东风汽车:600006;龙头股份:600630
+5.70;12.63|5.89;13.30|3.33;5.30|6.33;14.23|11.05;12.67|8.09
+sh600006 --- CurrentPrice:5.86 HighestPrice:6.05
+sh600630 --- CurrentPrice:13.06 HighestPrice:13.74
+东风汽车:600006;龙头股份:600630 -> new_incr_rate:2.81;3.40 | new highest_incr_rate:11.05;12.67 | new score:7.49
+update zs_game set current_price="5.86;13.06", incr_rate="2.81;3.40", highest_price="6.33;14.23", highest_incr_rate="11.05;12.67", score=7.49 where round = 0 and target_stock = "东风汽车:600006;龙头股份:600630"
+保利地产:600048;招商地产:000024
+11.43;27.71|10.43;25.85|-8.75;-6.71|11.40;28.00|-0.26;1.05|-3.67
+sh600048 --- CurrentPrice:10.48 HighestPrice:10.85
+sz000024 --- CurrentPrice:25.81 HighestPrice:26.80
+保利地产:600048;招商地产:000024 -> new_incr_rate:-8.31;-6.86 | new highest_incr_rate:-0.26;1.05 | new score:-3.60
+update zs_game set current_price="10.48;25.81", incr_rate="-8.31;-6.86", highest_price="11.40;28.00", highest_incr_rate="-0.26;1.05", score=-3.60 where round = 0 and target_stock = "保利地产:600048;招商地产:000024"
+重庆港九:600279;长春一东:600148
+14.39;21.32|14.67;20.99|1.95;-1.55|15.37;22.09|6.81;3.61|2.71
+sh600279 --- CurrentPrice:14.39 HighestPrice:14.93
+sh600148 --- CurrentPrice:20.50 HighestPrice:21.52
+重庆港九:600279;长春一东:600148 -> new_incr_rate:0.00;-3.85 | new highest_incr_rate:6.81;3.61 | new score:1.65
+update zs_game set current_price="14.39;20.50", incr_rate="0.00;-3.85", highest_price="15.37;22.09", highest_incr_rate="6.81;3.61", score=1.65 where round = 0 and target_stock = "重庆港九:600279;长春一东:600148"
+--------------------------END-----------------------------
+2015-01-30 15:05:06
+
+
+
+
